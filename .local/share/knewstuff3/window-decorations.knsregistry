@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Fireflies Dark Round</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757391</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>76063</downloads>
+  <installedfile>/home/nic/.local/share/aurorae/themes/Fireflies-dark-round/*</installedfile>
+  <id>1757391</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Fireflies based Window Decoration for Fireflies Theme. Respects your Color Scheme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757391/2022-04-07-16-12.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757391/2022-04-07-16-12.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMjg5ODYiLCJvIjoiMSIsInMiOiIwMTE0ZWEyZjQ3YzJkMTBlOTFiYjI2YzE3NTQ1ZjZjYmM5NDUwNzUyZWMxMjg0N2ZlOGYwNzAyOTc4OWUzZGNlMmU0ZTk5N2M1MzJiZWZhYTc3NDBiZWMzMTBhMWRlOTZlNDRkNDRkMWI3MTlkYjk4OTIzMGYzNWVkZjJkOWRjZSIsInQiOjE3MjI5MTc5NjUsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.uatcZRCDCGm8eMrQnj8sX442A9nHUTTqZmVqAVxcHEY/Fireflies-dark-round.tar.gz</payload>
+  <tags>plasma,sweet,theme,unix,fireflies,gplv3,kde,linux,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Edna</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1367056</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>66</rating>
+  <downloads>31406</downloads>
+  <installedfile>/home/nic/.local/share/aurorae/themes/Edna/*</installedfile>
+  <id>1367056</id>
+  <releasedate>2024-07-27</releasedate>
+  <summary>Aurorae theme for Edna Plasma https://www.pling.com/p/1117813/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1367056/edna-aurorae-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1367056/edna-aurorae-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTU2NDI2NjEiLCJvIjoiMSIsInMiOiJkMjUzNDUzOGQyMDljOWRlMjMyZjc5YjQxM2JkYWFlNmMwYzY0ZDQwYjFmMzA2ZWM4ZTc5Mzk2YjAwMTU4MWY3ZWIyZDg4MDRhMDcxOGUxNzRkOGYyMTkxZjNiM2Y3ODgxYTMwYmE4NDBjNTM4NDA1OTk3MjA4MDFlNDA1YTM3ZiIsInQiOjE3MjI5MTgxNzIsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.7f5HA8W-Lukn1b7xE5HT-C6AB5MQX2gZQ-B-69-v3do/Edna.tar.gz</payload>
+  <tags>unix,theme,linux,kde,lgplv3,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Carl Aurorae theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1331617</homepage>
+  <licence></licence>
+  <version>1.8</version>
+  <rating>60</rating>
+  <downloads>15962</downloads>
+  <installedfile>/home/nic/.local/share/aurorae/themes/Carl/*</installedfile>
+  <id>1331617</id>
+  <releasedate>2024-07-09</releasedate>
+  <summary>Aurorae theme for Carl Plasma theme https://store.kde.org/p/1330604/&lt;br />
+&lt;br />
+Based on McMojave aurorae by Vinceliuice https://github.com/vinceliuice/McMojave-kde</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1331617/carl-aurorae2.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1331617/carl-aurorae2.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQ4NTEwNzUiLCJvIjoiMSIsInMiOiI5NTcwOWVmZmZlY2Q1MjFlZTRjYjkyYjkwM2YxZDNmNzE2MzQ3ZGFmM2ZjM2VmODNhYTczYjc2MDZjOTQyY2Q0ZjJjZTg1Njg4ZDAxMTcxNjJhMmIxYmVjZmFlYzMxMTI2MzE1ODk4NjBmYzA4OGZiN2ZhMDFmOWY0NDVkNDc5NiIsInQiOjE3MjE0NzYzMjMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuODAuMjM0In0.JNFvNPch-td7YNJIv9db_O2ybqjfsuo1oLSOD1uIibw/Carl.tar.gz</payload>
+  <tags>gplv3,kde,linux,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Andromeda Aurorae</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2036828</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1173</downloads>
+  <installedfile>/home/nic/.local/share/aurorae/themes/Andromeda/*</installedfile>
+  <id>2036828</id>
+  <releasedate>2024-07-31</releasedate>
+  <summary> A modern dark theme with a taste o f the universe for aurorae based on my &lt;a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank" rel="nofollow"> Andromeda theme for vscode&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036824" target="_blank" rel="nofollow">Andromeda Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036834" target="_blank" rel="nofollow">Andromeda Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036829" target="_blank" rel="nofollow"> Andromeda sddm theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036822" target="_blank" rel="nofollow">Andromeda colorscheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036820" target="_blank" rel="nofollow">Andromeda Konsole color scheme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2036828/screenshot-20230516-122911.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2036828/screenshot-20230516-122911.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjIxMDM0NjQiLCJvIjoiMSIsInMiOiI3ODFlYTFkMTYyOGViMGMwYmIzZTgzYTMzOTk4YTc4YzkwMjU3ZGIxZDkzYzE2OWExYWRjOGJlMTU4ZDhiM2U1NTA1YTBlZjZlZGZjNmIzYjQ3NjYyNDNhNDg5YmFmNThlZTAxYjcyYTZiNGIyNzRhZDFmYjA5MTBjMDdkYzhkOCIsInQiOjE3MjI5MTg4NDMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.Rjvhb2Ewfm83wFI-CBIHaiiUKzC5zpXld1gULjA3Uig/Andromeda.tar.xz</payload>
+  <tags>original-product,plasma,theme,unix,gplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="717">
+  <name>Monochrome KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/2143843</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>5217</downloads>
+  <installedfile>/home/nic/.local/share/aurorae/themes/MonochromeBlur/*</installedfile>
+  <installedfile>/home/nic/.local/share/aurorae/themes/Monochrome/*</installedfile>
+  <id>2143843</id>
+  <releasedate>2024-04-03</releasedate>
+  <summary>A dark theme inspired by black and white photography.&lt;br />
+&lt;br />
+See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde" target="_blank" rel="nofollow">project&lt;/a> page for more information and recommendations.&lt;br />
+&lt;br />
+Theme is based on the original work by &lt;a href="https://github.com/PapirusDevelopmentTeam" target="_blank" rel="nofollow">Papirus Development Team&lt;/a> and &lt;a href="https://www.pling.com/u/x-varlesh-x/" target="_blank" rel="nofollow">Alexey Varfolomeev&lt;/a> which can be found &lt;a href="https://www.pling.com/p/1229137/" target="_blank" rel="nofollow">here&lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/2143843/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/2143843/preview.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTIxNTU2MjQiLCJvIjoiMSIsInMiOiIwYTBhM2M2YTU0YmJiMTNjNTYwYWQ5NTllYzQyMDI1Y2UxNTFhOTcwMjVmMzk2Yzg4ZDhhYTllMGI5MDllMzNlYzk0OWRhM2VkOTA0Mjk3Njk1NjQyZDhkYTk5Mjg3MWVlODVkY2JhZTcxMmI3ODYxYmUyM2M0MjQ2MTc0ODY3OSIsInQiOjE3MTc0ODAyODMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTIuMTgxLjE5NSJ9.D0FXG72GAxKlr3tUdaaSyhRhcNrEfYSlLco2Qs8cmBQ/monochrome-aurorae.tar.gz</payload>
+  <tags>plasma,unix,theme,dark,kde,greyscale,gplv3,monochrome,linux,auroare</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

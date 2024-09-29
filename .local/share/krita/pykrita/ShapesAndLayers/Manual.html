@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--BBD's Krita Script Starter, Feb 2018 -->
+<head><title>Shapes and Layers</title>
+</head>
+<body>
+<h2>Shapes and Layers</h2>
+<h4>v.0.10</h4>
+This plugin includes a collection of tools to manipulate layers, shapes and other convenience tools. (Requires Krita 5.0+)
+
+<h2>Features</h2>
+<h4><u>Split Shapes Into Layers</u></h4>
+<p><code>Usage: Layer->Split->Split Vector Shapes Into Layers...</code></p>
+<p>Finds all shapes inside a vector layer and splits each shape into its own layer. Group shapes will be made into group layers, and shapes will be made into either their own vector layer or their own paint/raster layer depending on the option chosen.</p>
+<p>You can also choose the depth you wish it to traverse by changing the top-level group depth option. By default, the top-level group setting is set to be equal to the top most non-group shape it finds.</p>
+
+<h4><u>Adjust Font Sizes</u></h4>
+<p><code>Usage: Tools->Scripts->Shapes And Layers->Adjust Font Sizes...</code></p>
+<p>Finds all text shapes within a document and adjusts them according to the operation chosen. This will also adjust text within group shapes.</p>
+<p>The default 0.75 division is for restoring the font sizes to the Krita 4 sizes</p>
+
+<h4><u>Visibility Helper</u></h4>
+<p><code>Usage: Tools->Scripts->Shapes And Layers->Layer Visibility Helper...</code></p>
+<p>Provides convenience features for handling invisible layers.</p>
+<p><strong>Auto-select layer on making layer visible:</strong> When layer is made visible, select that layer</p>
+<p><strong>Block invisible layers:</strong> Make invisible layers more noticable for those who get tunnel visioned</p>
+<p><strong>Toggle visibility drag:</strong> Drag down or up to make multiple layers visible or invisible</p>
+
+<h4><u>Layer Styles Clipboard</u></h4>
+<p><code>Usage: Layer->Layer Styles Clipboard</code></p>
+<p>Provides the ability to copy, cut, paste and clear layer styles.</p>
+<p>Shortcuts Available for configuration in Krita's shortcut manager</p>
+
+<h4><u>Hide Dock Window Titlebars</u></h4>
+<p><code>Usage: Tools->Scripts->Shapes And Layers->Hide Dock Window Titlebars</code></p>
+<p>Provides the ability to toggle the titlebars of Dock Windows on and off.</p>
+<p>Holding Ctrl + Right mouse click will toggle individual dock windows. (If you click on child object of the window like a listbox, you may have to doubleclick)</p>
+
+<h4><u>Font Manager Helper</u></h4>
+<p><code>Usage: Tools->Scripts->Shapes And Layers->Font Manager Helper...</code></p>
+<p>Provides the ability to add and remove temporary fonts without restarting Krita.</p>
+<p><strong>Manual:</strong> You can add 1 or more fonts that will be added temporarily. Fonts are automatically removed when Krita is restarted.</p>
+<p><strong>Auto:</strong> Monitor a temporary directory for new fonts and add/remove the fonts in realtime. If left running, it will resume next time Krita is opened and add all the fonts in the directory. Subdirectories are <strong>not</strong> supported. This is not intended for monitoring system font folders.</p>
+
+
+<h4><u>Show Eraser</u></h4>
+<p><code>Usage: Tools->Scripts->Shapes And Layers->Show Eraser Cursor->Enable</code></p>
+<p>Changes the cursor into a visible eraser when the eraser is selected.</p>
+<p>You can configure custom cursor SVG/PNG and set size with 4 different modes accross 3 different zoom levels.</p>
+<p><strong>Default Size:</strong> Use default cursor.</p>
+<p><strong>Static:</strong> Size of cursor will be exactly the number set.</p>
+<p><strong>Adjust:</strong> Cursor will adjust based on zoom level.</p>
+<p><strong>Hide:</strong> Cursor will be hidden.</p>
+
+<h4><u>Shapes As Layers</u></h4>
+<p><code>Usage: Settings->Dockers->Shapes As Layers</code></p>
+<p>A docker that allows you to see and select shapes on a vector layer as though each shape is its own layer. You can also view the SVG of said shape by pressing the Edit button.</p>
+<p>Note: Shapes will only show when the Shape Select Tool is used.</p>
+
+<h4><u>Selection Arrange Docker</u></h4>
+<p><code>Usage: Settings->Dockers->Selection Arrange Docker</code></p>
+<p>A docker that allows you to position paint layer nodes relative to rectangle selection</p>
+<p>Note: Changes will not be added to undo history, a convenience undo has been added as a workaround, but it is suggested to save prior to use</p>
+
+</body>
+</html>

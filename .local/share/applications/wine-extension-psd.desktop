@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Adobe Photoshop CC 2018
+MimeType=image/vnd.adobe.photoshop;
+Exec=env WINEPREFIX="/home/nic/.photoshopCCV19/prefix" wine start /ProgIDOpen Photoshop.Image.19 %f
+NoDisplay=true
+StartupNotify=true
+Icon=0F53_Photoshop.0

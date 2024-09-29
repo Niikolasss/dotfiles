@@ -1,0 +1,19 @@
+{
+    "id": "4e0391037dcf62b60393768c83fcfd55",
+    "metadata": {
+        "fullname": "xrandr-HP Inc.-HP M22f FHD-3CM13200B2",
+        "name": "HDMI-0"
+    },
+    "mode": {
+        "refresh": 74.97250366210938,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

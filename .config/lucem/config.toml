@@ -1,0 +1,17 @@
+[apk]
+  version = "2.639.688"
+
+[lucem]
+  discord_rpc = true
+  notify_server_region = true
+
+[tweaks]
+  oldOof = true
+  font = ""
+
+[client]
+  fps = 9999
+  launcher = ""
+  telemetry = false
+  fflags = ""
+

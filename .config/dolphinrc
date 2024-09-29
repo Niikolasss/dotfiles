@@ -1,0 +1,29 @@
+[CompactMode]
+PreviewSize=112
+
+[ExtractDialog]
+1920x1080 screen: Height=466
+1920x1080 screen: Width=1882
+DirHistory[$e]=$HOME/,/run/media/nic/data/,$HOME/looking-glass/,$HOME/nvidia-flash/
+
+[FileDialogSize]
+1920x1080 screen: Height=505
+1920x1080 screen: Width=952
+
+[General]
+Version=202
+ViewPropsTimestamp=2024,4,27,16,29,1.4
+
+[IconsMode]
+PreviewSize=112
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Search]
+What=Content

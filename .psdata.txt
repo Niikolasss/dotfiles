@@ -1,0 +1,2 @@
+/home/nic/.photoshopCCV19
+/home/nic/.cache/photoshopCCV19

@@ -1,0 +1,8 @@
+[Daemon]
+Autolock=false
+LockOnResume=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/nic/Pictures/Wallpaper/wall2.png
+PreviewImage=/home/nic/Pictures/Wallpaper/wall2.png

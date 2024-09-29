@@ -1,0 +1,7 @@
+[Plugin-org.kde.ActivityManager.Resources.Scoring]
+allowed-applications=/usr/bin/plasmashell,/usr/bin/spectacle,/usr/lib/jvm/java-22-openjdk/bin/java,/usr/lib/xdg-desktop-portal-kde,com.usebottles.bottles,darktable,discord,dolphin,electron,firefox,gimp,idle,kate,kdeconnect-app,kitty-open,krita_csv,krita_heif,krita_jxl,krita_kra,krita_krz,krita_png,krita_psd,krita_qimageio,krita_raw,krita_webp,libreoffice-calc,libreoffice-draw,minecraft-launcher,modrinth-app,mpv,net.lutris.Lutris,nvidia-settings,obs,org.darktable.darktable,org.inkscape.Inkscape,org.kde.ark,org.kde.discover-flatpak,org.kde.discover.snap,org.kde.discover.urlhandler,org.kde.dolphin,org.kde.filelight,org.kde.kate,org.kde.kdenlive,org.kde.krdc,org.kde.krunner,org.kde.libtaskmanager,org.kde.okteta,org.kde.plasma.kicker,org.kde.plasma.settings.open,org.kde.systemsettings,org.mozilla.Thunderbird,org.prismlauncher.PrismLauncher,steam,systemsettings,thunar,userapp-Thunderbird-54X6N2,variety,viewnior,vim,vlc,wine,woeusbgui,xarchiver
+off-the-record-activities=
+what-to-remember=1
+
+[Plugin-org.kde.ActivityManager.VirtualDesktopSwitch]
+desktop-for-ecc9b929-0e46-4d00-933c-66cf89647f39=1

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="709">
+  <name>Andromeda Launcher Plasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2144212</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>7648</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/AndromedaLauncher/</installedfile>
+  <id>2144212</id>
+  <releasedate>2024-08-04</releasedate>
+  <summary>A simple Launcher for KDE Plasma 6 based on the awesome &lt;a href="https://store.kde.org/p/1720532" target="_blank" rel="nofollow"> MMcK Launcher&lt;/a> created to fit the &lt;a href="https://store.kde.org/p/2036836/" target="_blank" rel="nofollow"> Andromeda theme for KDE&lt;/a>&lt;br />
+&lt;br />
+Required...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2144212/preview-2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2144212/preview-2.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjI0NjM0MTQiLCJvIjoiMSIsInMiOiI3NzIzNjkyMmEwN2FiMjU3MzNiODMzNzk1MjcxOTcwNjliYTIwMDM3NjFlMjEwNTRiNjIzYWM0ZTE4NGUwNDZhMzVmZWE4NDI1OTQyOGYxNGY5MTVjNGVhZTc0ZjQ3YjgwMTZhNmRlZjMwNzUyMWM3OGQ4MjdkZjhmMGNkOTI5NyIsInQiOjE3MjI5MTg4NTYsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.sEUwTZ_0XIukfu7qmiENRRVWyx97GMecYbCysdy8hCM/AndromedaLauncher.tar.xz</payload>
+  <tags>plasma,linux,kde,gplv2-later,unix,extension</tags>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="706">
+  <name>Desktop Indicator</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>dhruv8sh</author>
+  <homepage>https://store.kde.org/p/2131462</homepage>
+  <licence></licence>
+  <version>v0.3</version>
+  <rating>69</rating>
+  <downloads>7908</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/org.kde.plasma.plasm6desktopindicator/</installedfile>
+  <id>2131462</id>
+  <releasedate>2024-03-18</releasedate>
+  <summary>A minimal virtual desktop indicator to be used as an alternative for a Pager.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/62/52/79/2131462/screenshot-20240221-034215-2.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/62/52/79/2131462/screenshot-20240221-034215-2.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTA3MjMxNzQiLCJvIjoiMSIsInMiOiIwZTM1MjlkMDA5NWM5MmYzOTY1MTc1OTM5OWRjODRkZDNkZWIzNjdiMThmODc3NmNhOGQ2ZGJhMzdiODVmMzYxNDA2ZjcwNmEwMzAwZmI5OGFmYzY1MWIyOGRkYjcxNmYxZmRmNTZjODI3NmYyNTBiOGVkMjQ4ZjFlNDcwMDhkZCIsInQiOjE3MTc5MzU1NDAsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTIuMTgxLjE5NSJ9.HAWzSFsx4YZpR6T6fqxmoDhGvDv08RpMSg9dIB_28Ck/v0.3.tar.gz</payload>
+  <tags>gplv3,linux,kde,kde-plasma,original-product,pager,plasma,applet,unix,virtual-desktop,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Plasma Control Hub</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2139890</homepage>
+  <licence></licence>
+  <version>0.1.7.7</version>
+  <rating>61</rating>
+  <downloads>3991</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/Plasma.Control.Hub/</installedfile>
+  <id>2139890</id>
+  <releasedate>2024-04-25</releasedate>
+  <summary>&lt;h3>Plasma-Control-Hub is a similar macos control center applet, created especially for use in plasma. This widget is not a fork of Prayag2's work, although some of its code was reused. It's still a work in progress, it may not work. &lt;/h3>&lt;br />
+&lt;br />
+&lt;strong>Features&lt;/strong>&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2139890/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2139890/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQwNjY2NTciLCJvIjoiMSIsInMiOiJjZWJmNDc2NjZjYzkxYWFhN2VjZDAwY2MxOTAxN2NlNDEwYTUzMGVjOGE0OTBmOWQ0YTJkMWFmMTZhOTAzMTUyZTVhNjg4MTYzMTkwOThiOWNjMGY1MDA1NzQxMjU1OGJiM2ExMTk4ZTcxMDNlMzYwMzYxZjkzYjhkZmMwYzc5MCIsInQiOjE3MTQyNDI0MjMsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjk3LjE3OCJ9.fyp_Odx33nj7heeOF8V7QumvWf_DIvu6G6MlhvV1Wt4/Plasma.Control.Hub.tar.xz</payload>
+  <tags>original-product,plasma,cc-by,linux,macos,kde,hub,extension,rainmeter,unix,weather</tags>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="712">
+  <name>Simple Weather [Plasma 6]</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/2137431</homepage>
+  <licence></licence>
+  <version>9</version>
+  <rating>50</rating>
+  <downloads>10065</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/com.github.zren.simpleweather/</installedfile>
+  <id>2137431</id>
+  <releasedate>2024-03-14</releasedate>
+  <summary>Needs (&lt;strong>sudo apt install plasma-widgets-addons&lt;/strong>) if you don't already have the default KDE weather widget installed.&lt;br />
+&lt;br />
+&lt;strong>Plasma 5 Widget:&lt;/strong> &lt;a href="https://www.pling.com/p/1287571/" target="_blank" rel="nofollow">https://www.pling.com/p/1287571/&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/39/56/2137431/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/39/56/2137431/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTAzODgyNzciLCJvIjoiMSIsInMiOiIzODgwYjliZmFhZmYxNDIwMTNjMWU5MDhkOGNkNmQ1NDQwNmQ0YWYwOTMzMTBhZTNjZWRhOGFmZGQxMjk5YWIyZTczNzdjZThmNGFjZDYzYzExYWI1OWZhYWU4YzQxMThlYmYyYWQxNGEzODM2ZWE4OGVhNDBmYzNjZmQ1ZDZhNSIsInQiOjE3MTQyMTM5ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjk3LjE3OCJ9.tVRCSgKkO6JKrmR5CgSE6osgwzKEWopzck7yLCNoOFI/simpleweather-v9-plasma6-0.plasmoid</payload>
+  <tags>kde,gplv2-later,linux,extension,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="711">
+  <name>MediaBar</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>climber</author>
+  <homepage>https://store.kde.org/p/1377704</homepage>
+  <licence></licence>
+  <version>2.2</version>
+  <rating>60</rating>
+  <downloads>2371</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/org.kde.mediabar/</installedfile>
+  <id>1377704</id>
+  <releasedate>2024-04-19</releasedate>
+  <summary>Media Player Controls widget for KDE Plasma.&lt;br />
+&lt;br />
+Features:&lt;br />
+ * View and control Media from inside a panel or dock (such as Latte Dock)&lt;br />
+ * Simple format: Artist Name - Track Title&lt;br />
+ * View Album and Album Art on expanded view and tooltip&lt;br />
+ * View current position of track in expanded view&lt;br />
+ * Controllable with Shortcuts&lt;br />
+&lt;br />
+More detailed information can be found in the source code repository.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/99/23/1377704/a85858ec3dfa3e362141bf97a0b845164567.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/99/23/1377704/a85858ec3dfa3e362141bf97a0b845164567.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM1MzExODMiLCJvIjoiMSIsInMiOiJlNzE1MWMxNDI4M2ViMmJiNzZhMDg2Yzk5MmE1MzVkMWRjMWI4ZWIyNWFlNzMxNDAyMTM4MDhhZDY2NTg0ZjhjOWRhODI0NjFmNDA2MzgxMjJmNGI3NzFiNzQxZmQ1ZThjYWRmZjJhNzQ2NWQyNzI5N2YyYzhjYjE4NzA0ODdmMSIsInQiOjE3MTQyNDIzNzIsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjk3LjE3OCJ9.g2xqrWy2GRvl3LmmGnWCsYGudBW0bDFGIGrHWizUp1o/MediaBar-2.2.tar.gz</payload>
+  <tags>unix,kde,gplv3,multimedia,latte-dock,linux,extension,widget,plasma,plasmoid</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Clear Clock</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>qewer</author>
+  <homepage>https://store.kde.org/p/2147871</homepage>
+  <licence></licence>
+  <version>0.5</version>
+  <rating>50</rating>
+  <downloads>4825</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/org.kde.plasma.clearclock/</installedfile>
+  <id>2147871</id>
+  <releasedate>2024-04-19</releasedate>
+  <summary>Clear Clock is a simple but configurable KDE plasmoid/widget for displaying date and time. Made for desktop use, won't work on panels/docks.&lt;br />
+&lt;br />
+Please open an issue in the GitHub repo (https://github.com/qewer33/ClearClock) for bugs or feature requests.&lt;br />
+If you like Clear Clock and my other projects, consider donating to me on Ko-fi! https://ko-fi.com/qewer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/20/66/2147871/logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/20/66/2147871/logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTM0NjcxNTciLCJvIjoiMSIsInMiOiI0NTk3ODA2NTY4MjU2NmViOGJhZGJiMDliNzM3OWEwMWIzODZmMDNjNmQxNGU2YzZjYjYzN2JmNWIzNWJlOTVlYzBlMTZhNzY5NjkwNzc0ODgwMDU2ZDRkYjMyOGM5MDcwZjQ0MzhlYWQxNmE5ZDVhMWE4OTQ0MmU0NzkyM2IxOSIsInQiOjE3MTQyMTM4NDUsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjk3LjE3OCJ9.m783hg_uSEByOM3B8pMkFlJCB8_PkFxb_Ec3Ek39EbU/Clear-Clock-v05.tar.gz</payload>
+  <tags>unix,clock,clocks,extension,modern,minimalism,minimalist,gplv3,kde,linux,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="706">
+  <name>Window Title Applet 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>dhruv8sh</author>
+  <homepage>https://store.kde.org/p/2129423</homepage>
+  <licence></licence>
+  <version>v0.5</version>
+  <rating>68</rating>
+  <downloads>47864</downloads>
+  <installedfile>/home/nic/.local/share/plasma/plasmoids/org.kde.windowtitle/</installedfile>
+  <id>2129423</id>
+  <releasedate>2024-03-12</releasedate>
+  <summary>A Plasma 6 applet that builds on the work by Psifidotos.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/62/52/79/2129423/screenshot-20240309-033004.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTAyMzQ1NTAiLCJvIjoiMSIsInMiOiJiMGY0NDA0OWNlMGRhNmMyZDE5MzAxMzY3ODg1NTc4ZjViZGExOGEwYmM5YzRmM2M2YjhlNDVjMjgyNmEwZmVlNTA2MDk4ZWM1ZTJjNDMyY2EzNzQzNTVmMjI5ZmY1Y2I0Y2UzOGE4MDI1MWFiNDdjZDk0MjIzNTMxZGQ3ZWUyMCIsInQiOjE3MTQyMTM4OTIsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjk3LjE3OCJ9.2k3szASEhovrDI7CSBauV73lOA5zmzqZeKrER0ipi64/v0.5.tar.gz</payload>
+  <tags>plasma-desktop,plasmoid,unix,original-product,plasma,extension,linux,gplv2,kdeplasma,kde,kde-plasma,applet</tags>
+  <status>updateable</status>
+ </stuff>
+</hotnewstuffregistry>

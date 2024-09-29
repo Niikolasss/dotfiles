@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="630">
+  <name>Kolors</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>belka</author>
+  <homepage>https://store.kde.org/p/1751219</homepage>
+  <licence></licence>
+  <version>1.0.1</version>
+  <rating>50</rating>
+  <downloads>2877</downloads>
+  <installedfile>/home/nic/.local/share/krunner-sources/kolors/*</installedfile>
+  <id>1751219</id>
+  <releasedate>2022-04-11</releasedate>
+  <summary>Runner based on pastel for color manipulation.&lt;br />
+&lt;br />
+ Requirements &lt;br />
+- Pastel: https://github.com/sharkdp/pastel&lt;br />
+- Imagemagick&lt;br />
+&lt;br />
+ Usage &lt;br />
+- Type a color in any format to get informations.&lt;br />
+- Apply commands on colors (pastel help for the complete command list)&lt;br />
+- Get random/distinct colors in any format. Ex: random rgb&lt;br />
+- Get gradients in any format. Ex: gradient white gray rgb&lt;br />
+- Press Enter to copy the output&lt;br />
+&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/56/74/20/1751219/colors-icon-4.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/56/74/20/1751219/colors-icon-4.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDk3MjEyOTIiLCJvIjoiMSIsInMiOiIyZmZmZDE1NDY4ZDJjMTMwZjI2ZmJkNWI3ZDQ3N2UwZDE4ZTUyNThjYjRkMjgyZjk2OTFkNjg1ZGFhMjE5Nzk1YjA4YTZjZTA0OTZhMDM4NDFkNDZmMjhhNThhYmFmNjhkN2EwMTUxZGU3OWQzZGZjNTY0ZjFjNDE1Yjg1MTY2YyIsInQiOjE3MjI5MTk2MDcsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.vuxUvHoQgwwzjZC9RGTMeoDVVJjApA23IcxrMxbzIGc/kolors.tar.gz</payload>
+  <tags>addon,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="629">
+  <name>KRunner Translator</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>Naraku</author>
+  <homepage>https://store.kde.org/p/1081236</homepage>
+  <licence></licence>
+  <version>1.5.0</version>
+  <rating>84</rating>
+  <downloads>14632</downloads>
+  <installedfile>/home/nic/.local/share/krunner-sources/krunner-translator-1.5.0/*</installedfile>
+  <id>1081236</id>
+  <releasedate>2020-09-19</releasedate>
+  <summary>This is a plugin for Plasma 5 KRunner. It's a translator and it translates text. Currently Google Translate, Bing Translator, glosbe, yandex, youdao, and Baidu Fanyi are supported. By clicking on the corresponding icon, the translation can be copied or read aloud.&lt;br />
+&lt;br />
+Development takes...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/12/22/94/1081236/156498-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/12/22/94/1081236/156498-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDA1NDEyMjciLCJvIjoiMSIsInMiOiJhNGVmNzdkOGU0Nzc0YWUxYzBiZWY0ODY2MjZhNGQ3ODIwYmExOTk3ZmVjNDY4ZjkxYWM0NDY3YTQzM2VhMTBiMDYxOTY0NDBjMmEwOGUwNGZkMDQ5ZmY3MWVjN2ZjMWUwM2IxZWJmOTNkZTlmODk4YWE5NWJiNTY2NDc2MTkyOCIsInQiOjE3MjE0Nzg3NjMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuODAuMjM0In0.c9cM7DTc_OTDncuRZXmBxyJblGWG-wlI2r1D4_WVSlA/v1.5.0.tar.gz</payload>
+  <tags>original-product,krunner,gplv3,addon,arch-package</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="630">
+  <name>epochreadable</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>ld6772</author>
+  <homepage>https://store.kde.org/p/1499104</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>58</rating>
+  <downloads>1040</downloads>
+  <installedfile>/home/nic/.local/share/krunner-sources/epochreadable/*</installedfile>
+  <id>1499104</id>
+  <releasedate>2024-03-14</releasedate>
+  <summary>KRunner addon that converts epoch millis into UTC and local time.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/60/91/93/1499104/465cf5ff809630200aa30b833ded3f6ba6d1642f5bef02ba3f9d3fc84be02362467d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/60/91/93/1499104/465cf5ff809630200aa30b833ded3f6ba6d1642f5bef02ba3f9d3fc84be02362467d.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTcwNTMzNzMiLCJvIjoiMSIsInMiOiI4ZGU4Mzc2ZTk0ZDVhODdkNWExMDQ3ZGMxOWYzYTRiYWRjYzEwNjBiMzM3YjVjYmJkNGQ4Zjc2NDM0ZTA4MmMwNGJhYmExMjQzNWRlNGFiZWM5Y2JiYTA5YjRiZGNiM2MzZmY3Y2I4ZDIzMDRkM2M2OWVhOGNiYTZkODEyMjg1YiIsInQiOjE3MjE0Nzg4MDEsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuODAuMjM0In0.p8g9rC2jVui9HsO3Evr-Sy-kzw-UMCTVrVFV64jx6Rc/epochreadable.tar.gz</payload>
+  <tags>epoch,addon,mit-license,krunner,original-product,unixtime,time</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

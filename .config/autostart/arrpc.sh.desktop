@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/nic/Documents/arrpc.sh
+Icon=application-x-shellscript
+Name=arrpc.sh
+Type=Application
+X-KDE-AutostartScript=true

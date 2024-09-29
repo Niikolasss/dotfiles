@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="289">
+  <name>Jade Arch</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1761032</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>62915</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Jade/*</installedfile>
+  <id>1761032</id>
+  <releasedate>2022-04-10</releasedate>
+  <summary>Arch based Wallpaper for theme Jade.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1761032/screenshot.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1761032/screenshot.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDk2MjExNzEiLCJvIjoiMSIsInMiOiJhZWJjOGUyZjA2NDQ1ZDY1OGNhMTc2NTZkZTViODFmMmJkOTQ3ODgzM2Y5YjZlNGMwYWE0OWUwOTAxOTM0NTE3ODM2NWVmNGVhZjc5YWY4YTUzNzEwODllNDQ2ODIxMTkyZjExY2VjNmU4MjNmMjRlZDhkMTU2N2Q0MWIxNGM4NCIsInQiOjE3MjI5MTc5NDQsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.djxDH5Sz-Z1njz81HITySRq-bQJ32-YGp3QDLSmfNWU/Jade.tar.gz</payload>
+  <tags>gplv3,kde,jade,plasma,artwork,wallpaper,arch</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Amethyst</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1799605</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>42247</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Amethyst/*</installedfile>
+  <id>1799605</id>
+  <releasedate>2022-05-19</releasedate>
+  <summary>A blurred wallpaper for Amethyst Global theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1799605/screenshot-20220519-223238.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1799605/screenshot-20220519-223238.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTI5ODIzMTYiLCJvIjoiMSIsInMiOiIyNWVjZWU0NWRhZGMwYTAzZmJiMTMzNGQxN2Q4MWM0ZTI1YWYyYjlmZDNlNmNmOTRlMDdmOGQ3NmQxMTcyMjI3NTdjOGE4NjE4OGM2NzJkOWNhNzljN2ZhNGVmOWM2ZTIyZGZmMzVlYmM2YTkyZWM1MGY0NWFkNDE5MWJjOTFlMiIsInQiOjE3MjI5MTc5MzQsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.-K3TK3uOcVNIORnb-Bp8_7eHa-H0Afvs7tkYWV-ApW0/amethyst.tar.gz</payload>
+  <tags>amethyst,arch,arhc,artwork,plasma,kde,gplv3,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Perspective</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541308</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>149200</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/ArchPerspective/*</installedfile>
+  <id>1541308</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>Perspective themed wallpaper for Arch Linux </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541308/f61ca864b86d27a996dcc61a3cfa254e1814be94e78d37f6bcdf76f296bf8d72d74b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541308/f61ca864b86d27a996dcc61a3cfa254e1814be94e78d37f6bcdf76f296bf8d72d74b.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQzMTkiLCJvIjoiMSIsInMiOiI3NTJhZjAzOTdiZmUxZmViM2Q2ZDIxYzhiYmM4ZmJhNWQ1MmNjZmQ3NTdhOTAxNDc1MDYzYjM2YzRiMzNlMDNjMzdhY2M5NjRlOTZkYjhkZjA2ZjUwNzQ0OTUxMzQxZjJlNjIyOGY3OTBmY2FjNzI2OGQyMGJjNjViMmE3NTliMiIsInQiOjE3MjI5MTc5NTUsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.fa8gSmA7k9HVGe3uAaTq2VAiOYrNXTE6FnKrWBLTdcw/ArchPerspective.tar.gz</payload>
+  <tags>theme,wallpaper,original-product,arch,artwork,kde,gplv2-later,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Wings-Light-Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1994281</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>11366</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Wings-Light-Wallpaper-With-KDE-Plasma-Logo.png</installedfile>
+  <id>1994281</id>
+  <releasedate>2023-02-25</releasedate>
+  <summary>Wings-Light-Wallpaper  (With KDE Plasma Logo and Without  Logo)&lt;br />
+&lt;br />
+Light Rounded Plasma Theme &lt;span style="color: #489ab1;">Wings-Light-Plasma&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1994292/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1994281/wings-light-wallpaper-with-kde-plasma-logo.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1994281/wings-light-wallpaper-with-kde-plasma-logo.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzczMTk0OTEiLCJvIjoiMSIsInMiOiI2MTI5MGQxMjExYmEwOTBmMTY3YzQ1MThlZDEzMmY1MTlhYmM1ZDM4M2RmZDU4OTQwZTkxOTIxNzM2NmNmNDBkMjFlNzc5YzEzNmMyMDIyYjM5YWVkZTgxYjUxYzIxNTRmNTVjZDIwMWNiMjcwZmFjYjQ4ZmI4NjU4YzFiMWZkYiIsInQiOjE3MTU2MDY4MTcsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjIzNS41MiJ9.2ZZbs7cUBoj5nZ_Dz1BQq8_ivmCxLbJZsRp5ywxtM84/Wings-Light-Wallpaper-With-KDE-Plasma-Logo.png</payload>
+  <tags>kde,plasma,wallpaper,gplv3,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="303">
+  <name>Jade Debian</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1761033</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>62829</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Jade_debian/*</installedfile>
+  <id>1761033</id>
+  <releasedate>2022-04-10</releasedate>
+  <summary>Debian logo based Wallpaper for theme Jade.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1761033/screenshot.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1761033/screenshot.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDk2MjExNjciLCJvIjoiMSIsInMiOiI4YTAyOGYwODk3M2U4OWMyZTRjYTNiOTNiN2VjMTlmNTQ1ZjYwZjY4ZWNiZTJjOGYzZTU5Nzg4OTYxMWFlYWY1NTA3NGEzY2FiNTg3MDgyNWEyODJiMWZiOGUzODg4MmRjNjE3YWFkYzA0OTY1MzNhMmM5ODY0YjUyODIwNGE3NiIsInQiOjE3MjI5MTc5MzksInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.zm3kgb2nCCbdoqickOVxMTQOnQ0WIg7Sc0wSRsWFO_c/Jade_debian.tar.gz</payload>
+  <tags>arch,4k,kde,gplv3,debian,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Light</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1598039</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>96798</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/ArchLight/*</installedfile>
+  <id>1598039</id>
+  <releasedate>2021-09-16</releasedate>
+  <summary>Arch logo wallpaper for Arch Light Theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1598039/accd27e99695f13d7084237f08b0238d9881c26c79ab0ce1fc5c31fafb384cd2aaff.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1598039/accd27e99695f13d7084237f08b0238d9881c26c79ab0ce1fc5c31fafb384cd2aaff.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzE4MTM3MTAiLCJvIjoiMSIsInMiOiJjYTA3MTc4MmI0MmY1MTM5YmU1NzdhZDhlMzhkZDMyYjU1N2QwNjc1NTgyYzYwODIwNjE0YWJkZTcwNGUzYTQxMjFlMmEyZTdhZmRhNDU4YTJjZWU3YTY1MjNhYmVjNzY1YjUxY2FhYjk4YzdhNjc1YWQyMTEwMzY2MDdlMmM2YSIsInQiOjE3MjI5MTc5NTksInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.7fvjEQ5Y_3pT0WnUHlTMUxp8S5F4Mp2qIbluvvf21UM/ArchLight.tar.gz</payload>
+  <tags>artwork,arch,kde,gplv3,light,wallpaper,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Green Liquid</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1757401</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>70617</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/ArchGreenLiquid/*</installedfile>
+  <id>1757401</id>
+  <releasedate>2022-04-07</releasedate>
+  <summary>Arch Green Liquid Wallpaper for Fireflies Theme.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1757401/1920x1080-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1757401/1920x1080-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkzMzExODkiLCJvIjoiMSIsInMiOiI0M2I2ZWFjMDcxZmRmM2UwNmU2NGY1MWU5MDRkNGNjMjFmMTE1NjVkMjYzMGEzOTliYTA1YTkwY2VkZDRlZTk0MTcxMmNjMDYxZjY1NDExOGIxNDVmN2E2MzdkNzZiNjY0OWFkZDQxZGQ3OGQyOWZlZGZhYmFhMzYxMjYzYWZhZiIsInQiOjE3MjI5MTc5NTAsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.6EG5BVq2e2-YVRWbJUMaemawkZWTYpu44upIjDOnqsM/ArchGreenLiquid.tar.gz</payload>
+  <tags>gplv3,kde,green,plasma,arch,sweet,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Edna - Rancho Cucamonga</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/2040022</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>60234</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Edna-RanchoCucamonga/*</installedfile>
+  <id>2040022</id>
+  <releasedate>2024-07-27</releasedate>
+  <summary>Wallpaper created by basicappleguy https://basicappleguy.com&lt;br />
+Suggested in global theme Edna https://store.kde.org/p/1367060/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/2040022/edna720.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/2040022/edna720.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODQ4OTU0NDciLCJvIjoiMSIsInMiOiI3NzFkNGI4MDk0NmYwOWNiMDllYjk4NzBhYTdlZjQxMGFjZjJmNzYwMDA5MGQyNjFhMjQ3ZGE3NTA3ZTMwOTdiMTFhYWYxOGQwNzNjOGUzMTdiYTkxZGQ0ZGU0OTc2OTU0ZWRmZGQ5YzZmYWMwYzQ4NjAzNmNhYjZhOTI4NDE4YiIsInQiOjE3MjI5MTgxODIsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.PBpa-miHGlsL8SSWXTYAgixo53i9RuKT6kVkG0bFbTo/Edna-RanchoCucamonga.tar.gz</payload>
+  <tags>desktopwallpaper,artwork,wallpaper,original-product,plasma,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Carl</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1682837</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>20638</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Carl/*</installedfile>
+  <id>1682837</id>
+  <releasedate>2024-07-09</releasedate>
+  <summary>Wallpaper for Carl plasma theme&lt;br />
+https://www.pling.com/p/1330604</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1682837/carl2escala.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1682837/carl2escala.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODY0MTQyNDMiLCJvIjoiMSIsInMiOiI0NWQ0OTU2NDMzMjY1OWRkMmQyNDc4NGI0NjllYmRmYzdjODM4YjNmYTllNWMzM2Q3ODAzZTVhYzcyNTg1NjIwMGVmYmM3ZDhkMzgwYzUwM2U0NmI5ODgxNWYwNGIzM2I5Mjg1NzZhZDIzYTcxODk2MDgxMGViOTdhNjJmNThhZiIsInQiOjE3MjE0NzYzNDEsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuODAuMjM0In0.VEbnYpOoFKOVcnzGWRyjjsw8jNPpSA8qV0OX9H77muA/Carl.tar.gz</payload>
+  <tags>wallpaper,artwork,gplv3,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Win-Light-Wallpaper</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1994278</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>20698</downloads>
+  <installedfile>/home/nic/.local/share/wallpapers/Win-Light-Wallpaper-With-KDE-Plasma-Logo.jpg</installedfile>
+  <id>1994278</id>
+  <releasedate>2023-02-25</releasedate>
+  <summary>Win-Wallpaper  (With KDE Plasma Logo and Without  Logo)&lt;br />
+&lt;br />
+Light Rounded Plasma Theme &lt;span style="color: #489ab1;">Wings-Light-Plasma&lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1994292/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1994278/win-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1994278/win-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzczMTkxNzEiLCJvIjoiMSIsInMiOiI3ZThjMTg2ZjA4N2Q1MzE0ZTAyNGQ5Yjg0MGRmNTQzOGRkNDVlZmU4NmRhNzc1OWE5ZjIyMzY0YmM2Y2FlNjI0ODhhMzFiYTg3OWY4ODRlNzNjYmJmNjlmNmQ5NDM1OWViZjlhMjEwZDRkNGYzOGJjNzBkNjU0MTU5NmYxOTIwNyIsInQiOjE3MTU2MDY4MDcsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjIzNS41MiJ9.cqVS50zsV2X2YDIq6Ffy4FieIrVgTSs9plZwIU97SX4/Win-Light-Wallpaper-With-KDE-Plasma-Logo.jpg</payload>
+  <tags>wallpaper,plasma,artwork,gplv3,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

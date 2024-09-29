@@ -1,0 +1,6 @@
+[FlatpakSources]
+Sources=sober
+
+[Window]
+geometry=0,0,929,993
+visibility=2

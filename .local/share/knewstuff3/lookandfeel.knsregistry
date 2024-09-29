@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="722">
+  <name>Andromeda PLasma 6</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2144490</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>8401</downloads>
+  <installedfile>/home/nic/.local/share/plasma/look-and-feel/Andromeda/</installedfile>
+  <id>2144490</id>
+  <releasedate>2024-08-04</releasedate>
+  <summary> A modern dark theme with a taste o f the universe for kde based on my &lt;a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank" rel="nofollow"> Andromeda theme for vscode&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036824" target="_blank" rel="nofollow">Andromeda Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+This theme will install as dependencies:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036834" target="_blank" rel="nofollow">Andromeda Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036829" target="_blank" rel="nofollow"> Andromeda sddm theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036828" target="_blank" rel="nofollow">Andromeda Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036822" target="_blank" rel="nofollow">Andromeda colorscheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036820" target="_blank" rel="nofollow">Andromeda Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2144490/untitled-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2144490/untitled-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTIzNDk3NTQiLCJvIjoiMSIsInMiOiJiY2FhZDM2ODUyMDBlMjllOWQzZWNlZmI1ODM1NWFjYjhkNWFiZmVhOGM4NWFhNzNkNDg3NTI4MmNjZjZlNDQwZDI0Y2M5ZWRiYWZjYzBmOTkzNmMxNDBlYjQ3NWJjZDlkOWFmNjZlMTAwYjZmZDVhZWYwNjhhMzk2NmY3MzQxYiIsInQiOjE3MjI5MTg4MjgsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.8yKrwbm9ZTeQEYHmgDD6bVmtMqLpTGZdd2M8bEOwiIo/Andromeda.tar.xz</payload>
+  <tags>original-product,plasma,unix,theme,gplv3,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

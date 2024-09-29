@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=theseus
+Exec=/opt/modrinth-app/modrinth-app %u
+Terminal=false
+MimeType=x-scheme-handler/modrinth;
+NoDisplay=true

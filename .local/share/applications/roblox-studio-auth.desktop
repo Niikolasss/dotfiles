@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Roblox Studio Authentication Protocol
+Comment=Authenticate Studio via the Browser
+NoDisplay=true
+Icon=grapejuice-roblox-studio
+Exec=/home/nic/.local/bin/grapejuice studio-auth %u
+Categories=Development;
+StartupWMClass=RobloxStudioLauncherBeta.exe
+MimeType=x-scheme-handler/roblox-studio-auth;

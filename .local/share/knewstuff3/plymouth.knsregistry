@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="108">
+  <name>Breeze-neon</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rcbj</author>
+  <homepage>https://store.kde.org/p/1167904</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>24313</downloads>
+  <installedfile>/home/nic/.local/share/kplymouththemeinstaller/breeze-neon.tar.gz</installedfile>
+  <id>1167904</id>
+  <releasedate>2017-02-13</releasedate>
+  <summary>Breeze plymouth theme with neon logo.&lt;br />
+&lt;br />
+Tested on KDE plasma 5.8.&lt;br />
+&lt;br />
+Version status: 1.0 Stable.&lt;br />
+&lt;br />
+Rate/Score it, if you like it. (click '+' on top-right side).&lt;br />
+&lt;br />
+To change Plymouth Screen:&lt;br />
+&lt;br />
+1) Download file to the desktop&lt;br />
+&lt;br />
+2)...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/77/25/1167904/5a2a6fb1a6892fc3ef5e47a461eeaaaf00161.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/77/25/1167904/5a2a6fb1a6892fc3ef5e47a461eeaaaf00161.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0ODQxMTgyNjEiLCJvIjoiMSIsInMiOiIyZGI0MTMwOTVmOTE2M2RmMjc4ZDM1MmM5NThjYTVhOGRlYzg5MTRmZTUxYjIxNTQzNDE4Zjk4MDRmZGNjNGQwZWQ3NTQzNDE4MGI4M2RhODUzY2E5MjQ1ZmRkNjc4Y2M3NTFiYTNhZjJiMDE1ODViOWZmNzgxOGVjNDJhNDA5ZCIsInQiOjE3MTU4NjI4OTcsInN0ZnAiOm51bGwsInN0aXAiOiIxLjUzLjIzNS41MiJ9.mVQwlpVH-iEYVM84jKdjEjx9a6zBzw02BXfbo_yY760/breeze-neon.tar.gz</payload>
+  <tags>linux,unix,splashscreen,bootscreen,plymouth</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="108">
+  <name>Arch Linux Glow</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>gustawho</author>
+  <homepage>https://store.kde.org/p/1000032</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>63</rating>
+  <downloads>6144</downloads>
+  <installedfile>/home/nic/.local/share/kplymouththemeinstaller/167535-Arch Linux Plymouth theme.zip</installedfile>
+  <id>1000032</id>
+  <releasedate>2014-10-19</releasedate>
+  <summary>This is a simple Plymouth theme displaying the Arch Linux logo.&lt;br />
+Created with the GIMP.&lt;br />
+&lt;br />
+Extract "Arch Linux Plymouth theme.zip" and open the README file for more information and installation instructions.&lt;br />
+Feel free to use/share it!</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/22/58/60/1000032/167535-11.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/22/58/60/1000032/167535-11.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjA3MzU1MzAiLCJvIjoiMSIsInMiOiI0ZGJhM2NlNDA0MTMxNTA1YzkyZWE3NzQ4MDRlMjdmMDc3ZWZmODY4MGQ4ZWNjNjkxNjlmNzcwOTE1M2I5NzVlOGMzNzA1OGVkNTI3ZjljNmFjZWY1YjcxOGU2OWVkMzk0MDc0NTNjMjI0Y2VjMjdmZmYxNzI4YmU1MDcxYzFlNCIsInQiOjE3MjAxOTc2MTEsInN0ZnAiOm51bGwsInN0aXAiOiIxMTguNjguODUuMTkxIn0.rZ9OCcEQUjhx1z7c-Z_qS-cFoj-5U-RSPBgamnq3YKo/167535-Arch Linux Plymouth theme.zip</payload>
+  <tags>plymouth,bootscreen,splashscreen,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

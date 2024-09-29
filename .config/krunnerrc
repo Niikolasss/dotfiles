@@ -1,0 +1,14 @@
+[General]
+FreeFloating=true
+
+[Plugins]
+baloosearchEnabled=true
+krunner_sessionsEnabled=false
+
+[Plugins][Favorites]
+plugins=krunner_services,calculator,unitconverter
+
+[Runners][krunner_charrunner]
+aliases=
+codes=
+triggerWord=#

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="719">
+  <name>Kinetic Animations 6 - Minimize</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>zbeep</author>
+  <homepage>https://store.kde.org/p/2158760</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>3345</downloads>
+  <installedfile>/tmp/gvNUDM-kinetic-squash.tar.gz</installedfile>
+  <id>2158760</id>
+  <releasedate>2024-05-27</releasedate>
+  <summary>Responsive and fluid animations for Plasma 6.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/img/00/00/68/28/92/2158760/outf1.gif</preview>
+  <previewBig>https://images.pling.com/img/00/00/68/28/92/2158760/outf1.gif</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTY4MTMzMjciLCJvIjoiMSIsInMiOiJjMGE3Njg4MTQzN2RhYjhhMzE3YWFjNWIxMjU4ZmRjNjcxOTI5ODg5YThiN2NjMTBkZjZmNWNmMmMyNmVmOWExYThiNjYwZmFiOTY4ODliNzQwZDdlYTE5YTY1OTg2NjU1MmJlNTM0MDZiZTljNzMwMTlmYjcyMWQ5MzkwMGVhYiIsInQiOjE3Mjc1MDQ1ODgsInN0ZnAiOm51bGwsInN0aXAiOiIxMTguNzAuNzAuMzAifQ.YCxgCWc3DTtvWyXFicoebWB7ImxRsvGACC4AXG8IkCk/kinetic-squash.tar.gz</payload>
+  <tags>unix,efi,gplv2-later,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

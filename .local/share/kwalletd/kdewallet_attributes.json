@@ -1,0 +1,103 @@
+{
+    "$fdo_created": "1714213814",
+    "$fdo_modified": "1723219310",
+    "Secret Service/2535460371273680|Xal.1794566092.Production.Default": {
+        "$fdo_created": "1721032412",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032412",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.1794566092.Production.Default",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/2535460371273680|Xal.1794566092.Production.Msa.ODA0YjYyNmQxZDRlNmY4Yw": {
+        "$fdo_created": "1721032412",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032412",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.1794566092.Production.Msa.ODA0YjYyNmQxZDRlNmY4Yw",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/2535460371273680|Xal.1794566092.Production.RETAIL.T": {
+        "$fdo_created": "1721032414",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032414",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.1794566092.Production.RETAIL.T",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/2535460371273680|Xal.1794566092.Production.RETAIL.User.ODA0YjYyNmQxZDRlNmY4Yw": {
+        "$fdo_created": "1721032433",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032433",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.1794566092.Production.RETAIL.User.ODA0YjYyNmQxZDRlNmY4Yw",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/2535460371273680|Xal.Production.Msa.Foci.1": {
+        "$fdo_created": "1721032413",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032413",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.Production.Msa.Foci.1",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/2535460371273680|Xal.Production.RETAIL.D": {
+        "$fdo_created": "1721032412",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032412",
+        "attributes": {
+            "tokenkey": "2535460371273680|Xal.Production.RETAIL.D",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/39AF83F5-273F-46CB-9203-E7B95F119BF7|e76789b7021e462a9cd70044c25c976d": {
+        "$fdo_created": "1721032420",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032420",
+        "attributes": {
+            "tokenkey": "39AF83F5-273F-46CB-9203-E7B95F119BF7|e76789b7021e462a9cd70044c25c976d",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/Password for '' on 'gh:github.com'": {
+        "$fdo_created": "1723219310",
+        "$fdo_mime_type": "text/plain; charset=utf8",
+        "$fdo_modified": "1723219310",
+        "attributes": {
+            "service": "gh:github.com",
+            "username": ""
+        }
+    },
+    "Secret Service/Password for 'Niikolasss' on 'gh:github.com'": {
+        "$fdo_created": "1723219309",
+        "$fdo_mime_type": "text/plain; charset=utf8",
+        "$fdo_modified": "1723219309",
+        "attributes": {
+            "service": "gh:github.com",
+            "username": "Niikolasss"
+        }
+    },
+    "Secret Service/e76789b7021e462a9cd70044c25c976d": {
+        "$fdo_created": "1721032422",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032422",
+        "attributes": {
+            "tokenkey": "e76789b7021e462a9cd70044c25c976d",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    },
+    "Secret Service/mojangClientToken": {
+        "$fdo_created": "1721032422",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1721032422",
+        "attributes": {
+            "tokenkey": "mojangClientToken",
+            "xdg:schema": "com.mojang.tokenstore"
+        }
+    }
+}

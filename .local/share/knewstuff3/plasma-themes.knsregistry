@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Andromeda Plasma</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2036834</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>1006</downloads>
+  <installedfile>/home/nic/.local/share/plasma/desktoptheme/Andromeda/</installedfile>
+  <id>2036834</id>
+  <releasedate>2024-07-31</releasedate>
+  <summary> A modern dark theme with a taste o f the universe for plasma based on my &lt;a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank" rel="nofollow"> Andromeda theme for vscode&lt;/a>&lt;br />
+&lt;br />
+&lt;h1>&lt;span style="color: red;">&lt;strong>¡IMPORTANT!&lt;/strong>&lt;/span> &lt;/h1>&lt;br />
+&lt;h3>&lt;strong> Recently this and my other themes have been attacked by a bunch of crazy fake accounts giving massive downvotes trying to defame those themes, &lt;a href="https://forum.opendesktop.org/t/unusual-low-ratings-in-products/20676" target="_blank" rel="nofollow">that situation has already been reported&lt;/a> and hopefully a solution will be found, Thanks for your support :)&lt;/strong>&lt;/h3>&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036824" target="_blank" rel="nofollow">Andromeda Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036829" target="_blank" rel="nofollow"> Andromeda sddm theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036828" target="_blank" rel="nofollow">Andromeda Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036822" target="_blank" rel="nofollow">Andromeda colorscheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036820" target="_blank" rel="nofollow">Andromeda Konsole color scheme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2036834/untitled-1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2036834/untitled-1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjIxMDQwMjciLCJvIjoiMSIsInMiOiI3NjU4NjY5MDIyNTExODA4NjBmZjJmZmY3Yzg3ZDE1YjUyYjMxMTVmNTYwMzA4YjMxMjk5Nzc4MDJlMzdmY2FmNjkxNWVlODNhYTk1NGM3ZTU3OWEzYWNhMjE0ZjVlZmI4NjFjYmViMDAyNDliMTQ4MWUzM2FkMmEyNzU2NDkwNSIsInQiOjE3MjI5MTg4MzgsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.G8xrYN9sdl7jPIXtGth8jCQ0KJQEQRH8PGDxpQ9KcF0/Andromeda.tar.xz</payload>
+  <tags>original-product,plasma,theme,unix,linux,kde,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Jade for Debian</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1761037</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>21673</downloads>
+  <installedfile>/home/nic/.local/share/plasma/desktoptheme/Jade_debian/</installedfile>
+  <id>1761037</id>
+  <releasedate>2024-03-11</releasedate>
+  <summary>The Debian based plasma theme for Jade Global theme. Use this if you want Debian based look throughout your desktop.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1761037/screenshot-20220410-232008.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1761037/screenshot-20220410-232008.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTAxODQwOTYiLCJvIjoiMSIsInMiOiJkMzY0N2MyOTkzZGNmZjY1ZjY1NTIzNDY0OThjZTU1NjkwNDRiM2E0NmU2MjVmZGM2ZjJmYTc1ODcyOGI1MmIwMTEzOTVjOGVlMzBiNTVmNjgzNGJjZWY4ODczOTBiMzVhZTdjODU4YTdlZTJmYzU4NmEwNjY0N2JlODg1YzQ0ZCIsInQiOjE3MjI5MTc5MTcsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.aclBb9mwafAsaggkXsq0yR1UE4NOvJBdqLKKvvCOuaM/Jade-debian.tar.gz</payload>
+  <tags>theme,unix,kde,linux,manjaro,jade,green,gplv3,debian,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Jade for KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1761038</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>55</rating>
+  <downloads>21394</downloads>
+  <installedfile>/home/nic/.local/share/plasma/desktoptheme/Jade_kde/</installedfile>
+  <id>1761038</id>
+  <releasedate>2024-03-11</releasedate>
+  <summary>The KDE plasma theme for Jade Global theme. Use this if you want KDE based look throughout your desktop.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1761038/screenshot-20220411-002859.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1761038/screenshot-20220411-002859.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTAxODQ0MjEiLCJvIjoiMSIsInMiOiI5Yjg0MzRmMjc3MTY5YzBjYTJkODc1NDk3MjcxZDI4M2U5YWU4ZjU3ZjQ1NzFiZTAwN2Y1YjY3NmE4MWU4Yjc4YmFkODg0MjY3ZWUyZjUwMzAzMjFmZDViMzM2YzA0Njg5YzkxZTkxNzZjZDRiMzc0ZjY3YjM3NTdiNzQxOWNiMSIsInQiOjE3MjI5MTc5MjIsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.wu2nN_RueMfZZDII6HKf5GN8Rm5gIBhqVJsUGJlvOvA/Jade-kde.tar.gz</payload>
+  <tags>plasma,gplv3,kde,linux,unix,theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

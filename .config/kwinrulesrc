@@ -1,0 +1,227 @@
+[0843698e-bfc1-4dcd-887e-e83ef8391208]
+Description=V(im)S code
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+types=1
+wmclass=Code
+wmclassmatch=1
+
+[1]
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+
+[14ec55dd-b276-4806-b943-c02df17bd3ef]
+Description=Discord Translucent
+opacityactive=85
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=1
+wmclass=discord
+wmclassmatch=1
+
+[15984628-0fa0-4e07-82c1-0de9adf29ea4]
+noborderrule=2
+
+[2]
+Description=Spotify
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+types=1
+windowrole=browser
+wmclass=Spotify
+wmclassmatch=2
+
+[239ddd09-9b10-43ba-8782-f4a8f63e1ee3]
+Description=Window Opacity Decrease
+opacityactive=90
+opacityactiverule=2
+opacityinactiverule=2
+wmclasscomplete=true
+
+[3]
+Description=Settings
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+title=System Settings
+titlematch=2
+types=1
+windowrole=browser
+wmclass=systemsettings
+wmclassmatch=1
+
+[31cbcc91-9cf7-4c32-8760-b635d4609db1]
+Description=Settings for Minecraft* 1.20.2
+opacityactiverule=2
+wmclass=Minecraft* 1.20.2
+wmclassmatch=1
+
+[4]
+Description=Settings for obs obs
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+wmclass=obs com.obsproject.Studio
+wmclasscomplete=true
+wmclassmatch=1
+
+[45a07355-c61e-4a72-8618-c7c14b2bde2d]
+Description=Window settings for YouTube
+opacityactiverule=2
+title=YouTube
+titlematch=2
+types=1
+wmclass=firefox
+wmclassmatch=1
+
+[4917fa0a-6aa3-4018-bf4c-2e6e7cee29fe]
+Description=Discord transparent
+clientmachine=localhost
+opacityactive=90
+opacityactiverule=2
+opacityinactive=91
+opacityinactiverule=2
+title=#helpdesk-freeform | VinegarHQ - Discord
+titlematch=2
+types=1
+windowrole=browser
+wmclass=discord
+wmclasscomplete=true
+
+[5]
+Description=Settings for caprine Caprine
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+title=System Settings
+types=1
+wmclass=caprine Caprine
+wmclasscomplete=true
+wmclassmatch=1
+
+[56bd149c-43da-4479-954b-ad04c36d2a6a]
+Description=Spotify
+opacityactive=86
+opacityactiverule=2
+opacityinactive=86
+opacityinactiverule=2
+types=1
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
+
+[6]
+Description=Settings for obs obs
+opacityactive=85
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=1
+wmclass=obs obs
+wmclasscomplete=true
+wmclassmatch=1
+
+[6a23ca8b-1e96-4660-8bee-5852f40d5810]
+Description=Firefox transparent
+clientmachine=localhost
+opacityactive=83
+opacityactiverule=2
+opacityinactive=83
+opacityinactiverule=2
+title=Firefox Web Browser
+titlematch=1
+windowrole=browser
+wmclass=Navigator firefox
+wmclasscomplete=true
+
+[6a67d6fe-d393-4cc1-b6f8-30e7834dafce]
+Description=Settings for obs obs
+opacityactive=85
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=1
+wmclass=obs obs
+wmclasscomplete=true
+wmclassmatch=1
+
+[7bd28101-778f-4c41-954e-6ead0cd98970]
+Description=Settings for caprine Caprine
+opacityactive=90
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+types=1
+wmclass=caprine Caprine
+wmclasscomplete=true
+wmclassmatch=1
+
+[7c294859-41f4-4922-a566-7d3ddad53f12]
+Description=Emoji Picker
+acceptfocusrule=2
+title=im-emoji-picker
+titlematch=1
+types=1
+
+[8cbbf4ce-d220-42c9-aad9-7f07b311a0bb]
+Description=Settings
+opacityactive=85
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+title=System Settings
+titlematch=2
+types=1
+wmclass=systemsettings
+wmclassmatch=1
+
+[General]
+count=7
+rules=a11b7781-949a-4d64-9c6f-111e4e616c98,2,3,4,5,7c294859-41f4-4922-a566-7d3ddad53f12,0843698e-bfc1-4dcd-887e-e83ef8391208
+
+[a11b7781-949a-4d64-9c6f-111e4e616c98]
+Description=Discord
+opacityactive=95
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+types=1
+windowrole=browser
+wmclass=vesktop
+wmclasscomplete=true
+wmclassmatch=2
+
+[ad064c4f-116b-4752-8d87-ee9e8bdf604c]
+Description=Firefox Translucent
+opacityactive=85
+opacityactiverule=6
+opacityinactive=85
+opacityinactiverule=2
+windowrole=browser
+wmclass=firefox
+wmclassmatch=1
+
+[c5812c7f-0417-41cb-b6d8-9c2cde21ea47]
+Description=Exclusion
+opacityactiverule=2
+opacityinactiverule=2
+types=2
+wmclassmatch=1
+
+[d651452f-fb13-4d38-a86f-c987dc51f83b]
+Description=Exception
+opacityactiverule=2
+title=YouTube
+titlematch=2
+types=1
+wmclass=firefox

@@ -1,0 +1,13 @@
+[activities]
+ecc9b929-0e46-4d00-933c-66cf89647f39=Default
+
+[activities-descriptions]
+ecc9b929-0e46-4d00-933c-66cf89647f39=Starter pack
+
+[activities-icons]
+ecc9b929-0e46-4d00-933c-66cf89647f39=/home/nic/Pictures/plasma.svg
+
+[main]
+currentActivity=ecc9b929-0e46-4d00-933c-66cf89647f39
+runningActivities=ecc9b929-0e46-4d00-933c-66cf89647f39
+stoppedActivities=

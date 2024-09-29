@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Visit PopCap.com
+Exec=env WINEPREFIX="/home/nic/.wine" wine start.exe http://www.popcap.com
+Type=Application
+StartupNotify=true

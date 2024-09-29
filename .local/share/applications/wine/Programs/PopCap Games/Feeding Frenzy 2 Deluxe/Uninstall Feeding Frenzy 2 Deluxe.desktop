@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Feeding Frenzy 2 Deluxe
+Exec=env WINEPREFIX="/home/nic/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\PopCap\\ Games\\\\Feeding\\ Frenzy\\ 2\\ Deluxe\\\\Uninstall\\ Feeding\\ Frenzy\\ 2\\ Deluxe.lnk
+Type=Application
+StartupNotify=true
+Comment=Uninstall Feeding Frenzy 2 Deluxe
+Icon=4B40_PopUninstall.0
+StartupWMClass=popuninstall.exe

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=View Readme
+Exec=env WINEPREFIX="/home/nic/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\PopCap\\ Games\\\\Feeding\\ Frenzy\\ 2\\ Deluxe\\\\View\\ Readme.lnk
+Type=Application
+StartupNotify=true
+Comment=View Readme
+Path=/home/nic/PopCap Games/Feeding Frenzy 2 Deluxe
+StartupWMClass=readme.html

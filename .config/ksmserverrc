@@ -1,0 +1,35 @@
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10c4756e69000171681336500000007370005
+clientId2=10c4756e69000171681336500000007370006
+clientId3=10c4756e69000171670624600000007790007
+count=3
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/firewall-applet
+program3=firefox
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10c4756e69000171681336500000007370005_1716823986_685835
+restartCommand2=/usr/bin/firewall-applet,-session,10c4756e69000171681336500000007370006_1716823986_685933,-name,firewall-applet
+restartCommand3=/usr/lib/firefox/firefox,--sm-client-id,10c4756e69000171670624600000007790007
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=nic
+userId2=nic
+userId3=nic
+
+[SubSession: 53c26474-91ae-49c8-87a0-3c4312b8b97e]
+count=0
+
+[SubSession: 6411ad02-59b8-4d92-8dc7-0369f7435172]
+count=0
+
+[SubSession: 83719d94-1ef2-4f7d-8451-8fd58d79c225]
+count=0
+
+[SubSession: d8b32936-2f30-4d24-bec2-b8818bf94bb3]
+count=0

@@ -1,0 +1,13 @@
+[Keyboard]
+NumLock=0
+RepeatDelay=250
+RepeatRate=35
+
+[Libinput][1133][49298][Logitech G102 LIGHTSYNC Gaming Mouse]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptPointerAcceleration=0
+cursorTheme=Breeze_Light

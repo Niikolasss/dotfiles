@@ -1,0 +1,500 @@
+sudo pacman -S noto-fonts-cjk
+sudo pacman -Syu
+ani-cli
+sudo pacman -S ani-cli
+neofetch
+sudo pacman -S kvantum
+sudo pacman -S cairo-dock
+cairo-dock &
+sudo pacman -S cairo-dock-plug-ins
+neofetch
+sudo xinit bspwm
+modprobe -l | grep 'nvidia'
+modprobe -a | grep 'nvidia'
+modprobe -h
+cat /sys/module/nvidia_drm/parameters/modeset
+sudo cat /sys/module/nvidia_drm/parameters/modeset
+cd
+sudo pacman -Rs cairo-dock-plug-ins
+sudo pacman -Rs cairo-dock
+neofetch
+git clone https://github.com/KDE/latte-dock.git
+cd latte-dock
+makepkg -si
+cd
+https://github.com/KDE/latte-dock.git
+sudo pacman -Syu
+sudo pacman -S cmake extra-cmake-modules python plasma-framework plasma-desktop plasma-wayland-protocols
+cd latte-dock
+sh install.sh
+cd
+sudo pacman -S kf5
+kvantum
+qt
+sudo pacman -S kde-connect
+sudo pacman -S kdeconnect
+sudo pacman -S desmume
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+neofetch
+neofetch
+neofetch
+topgrade
+sudo pacman -S topgrade
+sudo pacman -S cmatrix
+cmatrix
+htop
+sudo pacman -S htop
+sudo pacman -S sl
+sl
+sudo pacman -S fortune
+sudo pacman -S cowsay
+cowsay I like you
+sudo pacman -S aafire
+sudo pacman -S aalib
+aafire
+bb
+sudo pacman -S bb
+cmatrix
+sudo pacman -Rs spotify
+sudo pacman -Rs spotify-adkiller-git
+sudo pacman -Rs spotify
+[200~$ git clone https://github.com/abba23/spotify-adblock.git
+$ cd spotify-adblock
+git clone https://aur.archlinux.org/spotify-adblock.git
+cd spotify-adblock
+make
+$ sudo make install
+sudo make install
+makepkg -si
+cd
+sudo pacman -S spotify
+git clone https://aur.archlinux.org/spotify.git
+git clone https://aur.archlinux.org/spotify.git
+cd spotify
+makepkg -si
+cd
+cd spotify-adblock
+makepkg -si
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+makepkg -si
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+sudo pacman -S kirta
+sudo pacman -S krita
+sudo pacman -Syu
+systemctl enable hamachi
+sudo systemctl enable hamachi
+sudo /etc/init.d/logmein-hamachi restart
+sudo systemctl enable logmein-hamachi
+sudo logmein-hamachi restart
+
+sudo systemctl enable logmein-hamachi
+sudo pacman -S openssh
+sudo systemctl disable logmein-hamachi
+sudo systemctl enable logmein-hamachi
+sudo /etc/init.d/logmein-hamachi restart
+git clone https://aur.archlinux.org/haguichi.git
+cd haguichi
+makepkg -si
+sudo mount -t ntfs-3g /dev/sdb1
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+sudo pacman -Syu
+sudo umount /dev/sdb1
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+sudo pacman -Rs vinegar
+sudo pacman -Qdt
+sudo pacman -Rs hypr-git-debug
+sudo pacman -Rs vala
+sudo pacman -Rs jq
+sudo pacman -Rs go
+sudo pacman -Rs cython
+du -k | sort -nr | head -n10
+du | sort -nr
+ncdu
+sudo pacman -S ncdu
+ncdu /home/hey
+ncdu /home/nic
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+sudo pacman -Rs steam
+sudo flatpak steam
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+sudo mount -t ntfs-3g /dev/sdb1 /run/media/nic
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+lsblk
+sudo mount -t ntfs-3g /dev/sda1 /run/media/nic
+steam --reset
+sudo pacman -Rs steam
+sudo pacman -S steam
+lsblk
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+sudo mount -t ntfs-3g /dev/sda1 /run/media/nic
+sudo umount /dev/sda1
+sudo mount -t ntfs-3g /dev/sda1 /run/media/nic
+sudo umount /dev/sda1
+sudo mount -t ntfs-3g /dev/sda1 /mnt/storage
+mkdir -p /mnt/storage
+sudo mkdir -p /mnt/storage
+sudo mount -t ntfs-3g /dev/sda1 /mnt/storage
+sudo mount -t ntfs-3g /dev/sda1 /mnt/storage
+lsblk
+sudo mount -t ntfs-3g /dev/sdd1 /mnt/storage
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+lsblk -a
+lsblk -l
+lsblk -f
+cfdisk /dev/sdc1
+sudo cfdisk /dev/sdc1
+sudo cfdisk /dev/sda1
+sudo cfdisk /dev/sdc
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+lsblk
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+ntfsfix /dev/sdc1
+sudo ntfsfix /dev/sdc1
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+neofetch
+lsblk
+gparted
+sudo pacman -S gparted
+lsblk
+sudo gparted /dev/sdc
+lsblk
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+ntfsfix
+sudo pacman -S testdisk
+sudo testdisk
+sudo ntfsfix /dev/sdc1
+sudo pacman -Syu
+git clone https://github.com/ventoy/Ventoy.git
+cd Ventoy
+makepkg -si
+tar -xf ventoy-1.0.97-linux.tar.gz
+cd Downloads/
+cd Downloads
+cd
+/home/nic/Downloads/
+cd Downloads
+tar -xf ventoy-1.0.97-linux.tar.gz
+cd ventoy-1.0.97-linux.tar.gz
+ls
+cd ventoy-1.0.97
+ls
+sudo ./VentoyGUI.x86_64
+sudo pacman -S rufus
+sudo gparted
+sudo pacman -S ntfsfix
+ntfsfix
+ntfsfix /dev/sdc1
+sudo ntfsfix /dev/sdc1
+fsck
+fsck /dev/sdc1
+e2fsck -c /dev/sdc1
+sudo e2fsck -c /dev/sdc1
+sudo fsck /dev/sdc1
+ntfsresize -i -f -v '/dev/sdc1'
+sudo ntfsresize -i -f -v '/dev/sdc1'
+sudo fsck /dev/sdc
+sudo e2fsck -c /dev/sdc
+sudo e2fsck -c /dev/sdc1
+ntfsfix -h
+ntfsfix -b -d /dev/sdc1
+sudo ntfsfix -b -d /dev/sdc1
+sudo testdisk
+fsck -h
+fsck -y /dev/sdc1
+sudo fsck -y /dev/sdc1
+lsblk
+sudo ntfsfix /dev/sdc1
+sudo ntfsfix -b /dev/sdc1
+sudo fsck -f /dev/sdc1
+sudo fsck -f /dev/sdc
+lsblk
+sudo ntfsfix /dev/sdc1
+sudo ntfsfix -b -d /dev/sdc1
+mount /dev/sdc1 /run/media/nic
+sudo mount /dev/sdc1 /run/media/nic
+lsblk
+lsbk
+lsblk
+sudo mount -o loop /home/nic/Downloads/Win10_22H2_English_x64v1.iso /dev/sdc2
+sudo mount -o loop /home/nic/Downloads/Win10_22H2_English_x64v1.iso /mnt
+lsblk
+sudo mount -o loop /home/nic/Downloads/archlinux-2024.05.01-x86_64.iso /dev/sda1
+ls -l /dev/disk/by-id/usb-*
+cat /home/nic/Downloads/archlinux-2024.05.01-x86_64.iso > /dev/disk/by-id/usb-Generic_Flash_Disk_F5082033-0
+sudo cat /home/nic/Downloads/archlinux-2024.05.01-x86_64.iso > /dev/disk/by-id/usb-Generic_Flash_Disk_F5082033-0
+sudo cat /home/nic/Downloads/archlinux-2024.05.01-x86_64.iso > /dev/disk/by-id/usb-Generic_Flash_Disk_F5082033-0:0
+lsblk
+sudo cat /home/nic/Downloads/archlinux-2024.05.01-x86_64.iso > /dev/disk/by-id/usb-Generic_Flash_Disk_F5082033-0:0
+sudo pacman -S isoimagewriter
+sudo gparted
+lsblk
+mc /dev/sdc1
+sudo pacman -S mc
+mc /dev/sdc1
+sudo pacman -S ddrescue
+sudo pacman -S photorec
+kquitapp5 plasmashel
+kquitapp5 plasmashell
+kstart5 plasmashell
+testdisk
+lsblk
+ddrescue -d -rl /dev/sdc test.raw test.log
+ddrescue -h
+sudo mount -t ntfs-3g /dev/sdc1 /run/media/nic
+lslbk
+lsblk
+sudo mount -t ntfs-3g /dev/sda1 /run/media/nic
+sudo ddrescue -d -r 3 /dev/sdc1 '/run/media/nic/Everything/data.img'
+kquitapp5 plasmashell
+kstartapp5 plasmasshell
+kstartapp5 plasmashell
+kstart plasmashell
+kquitapp5 plasmashell
+kstart plasmashell
+steam
+sudo pacman -Syu
+sudo pacman -S cloudflared
+cloudflared proxy-dns
+sudo cloudflared proxy-dns
+sudo pacman -Syu
+sudo pacman -Rs hyprpaper
+flatpak update
+paru -Sua
+sudo pacman -Rs hyprland
+inxi -G
+nano /etc/profile.d/kwin.sh
+sudo nano /etc/profile.d/kwin.sh
+cmatrix
+Lunix
+neofetch
+sudo pacman -Syu
+paru
+shutdown
+restart
+shutdown
+shutdown -c
+shutdown now
+nano /etc/profile.d/kwin.sh
+sudo nano /etc/profile.d/kwin.sh
+restart
+reboot
+lunix
+hostnamectl hostname Lunix
+neofetch
+sudo pacman -Syu
+flatpak -h
+flatpak update
+paru -h
+paru -Sua
+git clone https://aur.archlinux.org/kwin-bismuth.git
+git clone https://aur.archlinux.org/kwin-bismuth.git
+cd kwin-bismuth
+makepkg -si
+makepkg -sri
+cd
+git clone https://github.com/Bismuth-Forge/bismuth.git
+cd bismuth
+make install
+npm install typescript
+make install
+cd
+make install
+cd bismuth
+make install
+cd
+git clone https://aur.archlinux.org/kwin-bismuth.git
+cd kwin-bismuth
+make install
+make install
+makepkg -si
+[200~/home/nic/kwin-bismuth/src/build/src/kdecoration/bismuth_kdecoration_autogen/EWIEGA46WW/../../../../../bismuth-3.1.4/src/kdecoration/decoration.hpp:9:
+makepkg -si
+makepkg -si
+makepkg -si
+makepkg -sri
+cd
+hyprland
+reboot
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+sudo curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+sudo spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+spicetify apply
+spicetify
+spicetify backup apply enable-devtools
+spicetify restore backup
+spicetify backup apply enable-devtools
+git clone --depth=1 https://github.com/spicetify/spicetify-themes.git 
+cd spicetify-themes
+cp -r * ~/.config/spicetify/Themes
+cd
+spicetify config current_theme nord
+spicetify config color_scheme dark
+
+spicetify config current_theme nord-dark
+spicetify apply
+spicetify config current_theme Dribbblish
+spicetify apply
+spicetify config color_scheme Nord-Dark
+spicetify apply
+spicetify config current_theme matte
+spicetify apply
+spicetify config current_theme Matte
+spicetify apply
+spicetify config current_theme Dreary
+spicetify config color_scheme Mono
+spicetify apply
+spicetify config current_theme Sleek
+spicetify config color_scheme UltraBlack
+spicetify apply
+sudo pacman -Rs kdewallet
+sudo pacman -RS kwallet
+spicetify config color_scheme Psycho
+spicetify config color_scheme Psycho
+spicetify apply
+spicetify apply
+spicetify apply
+spicetify apply
+neofetch
+neofetch
+sudo pacman -S firewalld
+sudo pacman -S kwallet-pam,
+sudo pacman -S kwallet-pam
+cmatrix
+cmatrix
+cmatrix
+cmatrix
+neofetch
+sudo pacman -Syu
+lsblk
+sudo mount /dev/sdc1 /storage
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+sudo pacman -S fdm
+sudo pacman -S freedownloadmanager
+sudo pacman -Rs fdm
+git clone https://aur.archlinux.org/freedownloadmanager.git
+cd freedownloadmanager
+makepkg -si
+makepkg -sri
+paru freedownloadmanager
+cd
+paru freedownloadmanager
+paru -S freedownloadmanager
+paru -S freedownloadmanager
+kquitapp5 plasmashell
+kstart plasmashell
+git clone https://github.com/hyprwm/Hyprland.git
+cd Hyprland
+git clone --recursive https://github.com/hyprwm/Hyprland
+cd Hyprland
+make all && sudo make install
+make all && sudo make install
+git clone --recursive https://github.com/hyprwm/Hyprland
+cd Hyprland
+make all && sudo make install
+cd
+git clone --recursive https://github.com/hyprwm/Hyprland
+cd Hyprland
+make all && sudo make install
+cd
+sudo pacman -S hyprwayland-scanner
+git clone https://github.com/hyprwm/hyprwayland-scanner.git
+cd hyprwayland-scanner
+sudo cmake --install build
+cmake -DCMAKE_INSTALL_PREFIX=/usr -B build
+cmake --build build -j `nproc`
+sudo cmake --install build
+cd
+cd Hyprland
+cd
+git clone --recursive https://github.com/hyprwm/Hyprland
+cd Hyprland
+make all && sudo make install
+cd
+git clone https://github.com/elkowar/eww
+cd eww
+cargo build --release --no-default-features --features x11
+cargo build --release --no-default-features --features=wayland
+cd target/release
+chmod +x ./eww
+./eww daemon
+./eww open <window_name>
+cd
+cd target/release
+cd eww
+cd target/release
+chmod +x ./eww
+./eww daemon
+./eww open <window_name>
+./eww daemon
+./eww open <window_name>
+cd
+$ git clone https://github.com/Alexays/Waybar
+$ cd Waybar
+$ meson build
+$ ninja -C build
+$ ./build/waybar
+# If you want to install it
+$ ninja -C build install
+$ waybar
+git clone https://github.com/Alexays/Waybar
+cd Waybar
+meson build
+ninja -C build
+./build/waybar
+ninja -C build install
+waybar
+cd
+sudo pacman -S ninja gcc wayland-protocols libjpeg-turbo libwebp pango cairo pkgconf cmake libglvnd wayland
+git clone https://github.com/hyprwm/hyprpaper.git
+cd hyprpaper
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -DCMAKE_INSTALL_PREFIX:PATH=/usr -S . -B ./build
+cmake --build ./build --config Release --target hyprpaper -j`nproc 2>/dev/null || getconf NPROCESSORS_CONF`
+cmake --install ./build
+sudo cmake --install ./build
+nano ~/.config/hypr/hyprland.conf
+exit
+exit
+waybar
+git clone https://github.com/qoheniac/config.git
+sudo pacman -S thunar
+nano ~/.config/hypr/hyprland.conf
+sudo thunar
+sudo thunar
+gksudo thunar
+gksudo thunar /etc/xdg/waybar
+sudo thunar /etc/xdg/waybar
+sudo cp /home/nic/config/waybar/ /etc/xdg/waybar
+sudo cp -r /home/nic/config/waybar/ /etc/xdg/waybar
+sudo cp -r /home/nic/config/waybar/ /etc/xdg/
+sudo rmdir /etc/xdg/waybar/waybar 
+sudo rmdir -r /etc/xdg/waybar/waybar 
+sudo rmdir -f /etc/xdg/waybar/waybar 
+rmdir --help
+sudo rmdir --ignore-fail-on-non-empty /etc/xdg/waybar/waybar 
+sudo rm /etc/xdg/waybar/waybar 
+sudo rm -r /etc/xdg/waybar/waybar 
+waybar -r
+waybar -h
+waybar exit
+waybar
+logout
+exit
+git clone https://github.com/robertjk/dotfiles.git
+git clone https://github.com/robertjk/dotfiles.git
+neofetch
+restart
+reboot
+exit hypr
+plasma
+sddm
+sudo sddm
+reboot

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Kora</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>tarma</author>
+  <homepage>https://store.kde.org/p/1256209</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>94</rating>
+  <downloads>55097</downloads>
+  <installedfile>/home/nic/.local/share/icons/kora-light/*</installedfile>
+  <installedfile>/home/nic/.local/share/icons/kora-light-panel/*</installedfile>
+  <installedfile>/home/nic/.local/share/icons/kora/*</installedfile>
+  <id>1256209</id>
+  <releasedate>2024-05-06</releasedate>
+  <summary>Kora icon theme for dark and light UI.&lt;br />
+&lt;br />
+*kora - for dark themes with dark panel&lt;br />
+*kora-light - for light themes with dark panel (depends on Kora)&lt;br />
+*kora-light-panel - for light themes with light panel (depends on Kora and Kora-light)&lt;br />
+&lt;br />
+*kora-grey - icon theme with grey folder/places icons&lt;br />
+*kora-green - icon theme with green folder/places icons&lt;br />
+*kora-yellow - icon theme with yellow folder/places icons&lt;br />
+&lt;br />
+&lt;br />
+Copy kora, kora-light, kora-light-panel and kora-pgrey subfolders to one of the following folders:&lt;br />
+&lt;br />
+    /usr/share/icons/ - icons available system-wide&lt;br />
+    $HOME/.local/share/icons/ - icons only available to local user&lt;br />
+&lt;br />
+_____________&lt;br />
+Coffee motivates&lt;br />
+https://ko-fi.com/tarmakofi&lt;br />
+ </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/50/97/86/1256209/korla-thumb31.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTQ5OTIxMDciLCJvIjoiMSIsInMiOiI4NWYxMGEyZWJhMDQ0MTVlNjQ3MTMxYTkwOWEzM2MxOWFmNzgwODk4MjE5M2ZlMGU2ZjEyZTYzOThiOTYxZmIzY2IxMmIzZjU0MjhkNjljZjQ3NTYyOGIyZWFmZGU2N2EwM2I1MjVmMDY3ODNhZjcxZDViYzE5Mzk0NjQ0MWY5NiIsInQiOjE3MjE0NzYzMzMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuODAuMjM0In0.SrJfk9-Fvzrp1rnpMWE36Vk3DaHVHbFtVKTTndMpzZI/kora-1-6-5.tar.xz</payload>
+  <tags>original-product,icon-pack,icon-theme,gplv3,kora,linux,unix,tarma,bikass</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela circle icon theme</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1359276</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>14888</downloads>
+  <installedfile>/home/nic/.local/share/icons/Tela-circle-dark/*</installedfile>
+  <installedfile>/home/nic/.local/share/icons/Tela-circle-light/*</installedfile>
+  <installedfile>/home/nic/.local/share/icons/Tela-circle/*</installedfile>
+  <id>1359276</id>
+  <releasedate>2024-07-09</releasedate>
+  <summary>&lt;strong> Tela circle Icon Theme &lt;/strong>&lt;br />
+Circle version icon theme of Tela: &lt;a href="https://www.pling.com/p/1279924" target="_blank" rel="nofollow">https://www.pling.com/p/1279924&lt;/a>&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1359276/5520e8b1cdab2b3acbf43ea76c0ebd62ab3c.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MjA1NDQ2NjUiLCJvIjoiMSIsInMiOiJmY2U4NjE4YmQ2ZTU0NjgzYzA5MDI2MDJmYWU3ZDg5M2FlZGYwMGIxMWRlZDA4N2UzYjk1Y2Q2MGI5ZmYwYzcyOGI3MDRiZmJlMDdlNzc0YTExZjJiODczMGVlZmJhZTQ1ODdkM2ZmMGY4YTZlOWNiZGFiMTkzNDgwN2JkNTBhNyIsInQiOjE3MjI5MTc5MjcsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.ZsvhqyIPXFfBDfIdO75S5B7X3L69ftR2nuozYlRkqaw/01-Tela-circle.tar.xz</payload>
+  <tags>unix,gplv3,linux,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

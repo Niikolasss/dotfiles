@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Layan color schemes</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325239</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>163480</downloads>
+  <installedfile>/home/nic/.local/share/color-schemes/LayanLight.colors</installedfile>
+  <installedfile>/home/nic/.local/share/color-schemes/Layan.colors</installedfile>
+  <id>1325239</id>
+  <releasedate>2022-02-13</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ3NjA0MzUiLCJvIjoiMSIsInMiOiIzZDFiOWU5ZGZhYjZjOWRlMmU4YzA5Y2I5MDA2YTVmNTBkMTg0NmZlYzFjMmZjNDI4ZjczMzlkZWIwZWUwNjdhN2M3NzM0NjkyNjgyM2NiOTM1MGU2YTJiMjdjNzllNTk4YmY5OTM0ZjUxOTIxOTg2NDE4NzRmYmQ5YmQ5OGFlMiIsInQiOjE3MjI5MTg2NTAsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.sMq_-sGXw0P7-ShigqW7Y_ESzQDRNnaR7h5D8upn0u0/Layan.tar.gz</payload>
+  <tags>kde,linux,gplv3,colorscheme,theme,unix,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Andromeda kde</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2036822</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>20730</downloads>
+  <installedfile>/home/nic/.local/share/color-schemes/Andromeda.colors</installedfile>
+  <id>2036822</id>
+  <releasedate>2023-06-25</releasedate>
+  <summary> A modern dark color scheme with a taste o f the universe for kde based on my &lt;a href="https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda" target="_blank" rel="nofollow"> Andromeda theme for vscode&lt;/a>&lt;br />
+&lt;br />
+&lt;h1>&lt;span style="color: red;">&lt;strong>¡IMPORTANT!&lt;/strong>&lt;/span> &lt;/h1>&lt;br />
+&lt;h3>&lt;strong> Recently this and my other themes have been attacked by a bunch of crazy fake accounts giving massive downvotes trying to defame those themes, &lt;a href="https://forum.opendesktop.org/t/unusual-low-ratings-in-products/20676" target="_blank" rel="nofollow">that situation has already been reported&lt;/a> and hopefully a solution will be found, Thanks for your support :)&lt;/strong>&lt;/h3>&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;br />
+Suggested setings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036824" target="_blank" rel="nofollow">Andromeda Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036834" target="_blank" rel="nofollow">Andromeda Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036829" target="_blank" rel="nofollow"> Andromeda sddm theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036828" target="_blank" rel="nofollow">Andromeda Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/2036820" target="_blank" rel="nofollow">Andromeda Konsole color scheme &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2036822/screenshot-20230516-122911.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2036822/screenshot-20230516-122911.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODc3MzI1OTMiLCJvIjoiMSIsInMiOiJlYTMzMjY0ZDdlODMxNDI5ZWQ4OWFlYzRhZmJkNGIxNjM4ZTZhYTdmNjU4NDRhMzEyOTAyZWFiOTEwYTM0ZDg3OGU4OTlmZDU4YTYwN2NlMzZmNzhhMDEzZjBlMDU1Njg1YTcwNDYxZDBhMjg2ZTc4NGYyNjEyNTdhZGE2NjIzNiIsInQiOjE3MjI5MTg4MzMsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTcuMjI1LjIwOCJ9.8HRKOGPafNz43bGrpfqLKRp3xlOJDbeHn7xdPlMhd1w/Andromeda.colors</payload>
+  <tags>gplv3,linux,kde,colorscheme,original-product,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Monochrome KDE</name>
+  <providerid>api.kde-look.org</providerid>
+  <author>pwyde</author>
+  <homepage>https://store.kde.org/p/1279083</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>7476</downloads>
+  <installedfile>/home/nic/.local/share/color-schemes/Monochrome.colors</installedfile>
+  <id>1279083</id>
+  <releasedate>2024-04-03</releasedate>
+  <summary>A dark theme inspired by black and white photography.&lt;br />
+&lt;br />
+See the &lt;a href="https://gitlab.com/pwyde/monochrome-kde" target="_blank" rel="nofollow">project&lt;/a> page for more information and recommendations.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/52/00/61/1279083/5eb03ed8af69c5d50f6c1b67f61fee95c79d1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/52/00/61/1279083/5eb03ed8af69c5d50f6c1b67f61fee95c79d1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MTIxNTA1OTAiLCJvIjoiMSIsInMiOiJlMmE5N2NkNDc2MzJlMDk1ZjJjZjlhNmU2MTQ5YWJhMjIyY2U0ZWE1MzkxOGU2OWQ2ZGZhNzU0YWMwMTU3NTcwMDU4MmU5ZGY4MDgyZTQ3YTQ1NWY1N2M2ZjIzY2NiYzc0YWIyMjU5NTU1MmM4NWY2ZDg0MWM5NDA1YmY5ZjEyNCIsInQiOjE3MTc0ODAyNDgsInN0ZnAiOm51bGwsInN0aXAiOiI0Mi4xMTIuMTgxLjE5NSJ9.8YYLYcB3Z2KlaoXk1_fapOmIL8OMluXbgptZ_D0Alpw/monochrome-color-schemes.tar.gz</payload>
+  <tags>dark,colorscheme,kde,gplv3,greyscale,linux,monochrome,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

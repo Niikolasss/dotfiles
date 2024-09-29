@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=x-scheme-handler/uplay;
+Exec=env WINEPREFIX="/home/nic/.wine" wine start %u
+NoDisplay=true
+StartupNotify=true

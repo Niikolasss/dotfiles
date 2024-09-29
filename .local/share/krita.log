@@ -1,0 +1,691 @@
+ 19 Aug 2024 11:42:51 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 6645
+-- -- -- -- -- -- -- --
+19 Aug 2024 11:42:51 +0700: Style: fusion. Available styles: Windows, Fusion
+19 Aug 2024 11:42:52 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+19 Aug 2024 12:45:56 +0700: Created image "Unnamed", 1024 * 1024 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+19 Aug 2024 12:46:35 +0700: Importing application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/nic.kra. Real location: /home/nic/Pictures/BlueStacks/nic.kra. Batchmode: 0
+19 Aug 2024 12:46:35 +0700: Loaded image from application/x-krita. Size: 256 * 256 pixels, 3.33333 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 8
+19 Aug 2024 12:53:35 +0700: Autosaving: /home/nic/Pictures/BlueStacks/.nic.kra-autosave.kra
+19 Aug 2024 12:53:35 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/.nic.kra-autosave.kra. Real location: /home/nic/Pictures/BlueStacks/.nic.kra-autosave.kra. Batchmode: 0. Configuration: none
+19 Aug 2024 12:53:35 +0700: Completed saving /home/nic/Pictures/BlueStacks/.nic.kra-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 173116
+19 Aug 2024 13:04:51 +0700: Removing autosave file: /home/nic/Pictures/BlueStacks/.nic.kra-autosave.kra
+19 Aug 2024 13:04:51 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 25 Aug 2024 15:12:49 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 20115
+-- -- -- -- -- -- -- --
+25 Aug 2024 15:12:49 +0700: Style: fusion. Available styles: Windows, Fusion
+25 Aug 2024 15:12:51 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+25 Aug 2024 15:13:02 +0700: Created image "Unnamed", 1024 * 1024 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+25 Aug 2024 15:13:31 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 25 Aug 2024 15:13:32 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 20200
+-- -- -- -- -- -- -- --
+25 Aug 2024 15:13:32 +0700: Style: fusion. Available styles: Windows, Fusion
+25 Aug 2024 15:13:33 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+25 Aug 2024 15:13:41 +0700: Created image "Unnamed", 1024 * 1024 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+25 Aug 2024 15:20:40 +0700: Autosaving: /home/nic/.krita-20200-document_0-autosave.kra
+25 Aug 2024 15:20:40 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/.krita-20200-document_0-autosave.kra. Real location: /home/nic/.krita-20200-document_0-autosave.kra. Batchmode: 0. Configuration: none
+25 Aug 2024 15:20:40 +0700: Completed saving /home/nic/.krita-20200-document_0-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 147058
+25 Aug 2024 15:48:39 +0700: Removing autosave file: /home/nic/.krita-20200-document_0-autosave.kra
+25 Aug 2024 15:48:39 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 26 Aug 2024 16:50:33 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 14631
+-- -- -- -- -- -- -- --
+26 Aug 2024 16:50:33 +0700: Style: fusion. Available styles: Windows, Fusion
+26 Aug 2024 16:50:35 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+26 Aug 2024 16:51:19 +0700: Created image "Unnamed", 474 * 474 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 26 Aug 2024 16:51:54 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 15391
+-- -- -- -- -- -- -- --
+26 Aug 2024 16:51:54 +0700: Style: fusion. Available styles: Windows, Fusion
+26 Aug 2024 16:51:55 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+26 Aug 2024 16:53:02 +0700: Created image "Unnamed", 368 * 423 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+26 Aug 2024 16:57:18 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 26 Aug 2024 16:57:20 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 16855
+-- -- -- -- -- -- -- --
+26 Aug 2024 16:57:20 +0700: Style: fusion. Available styles: Windows, Fusion
+26 Aug 2024 16:57:21 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+26 Aug 2024 16:57:36 +0700: Created image "Unnamed", 368 * 423 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+26 Aug 2024 17:02:35 +0700: Saving Document  as /home/nic/Pictures/mêm/sober.png (mime: image/png). 372 * 637 pixels, 3 layers.  101 frames, 24 framerate. Export configuration: No configuration
+26 Aug 2024 17:02:37 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/mêm/sober.png. Real location: /home/nic/Pictures/mêm/sober.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" r="1" b="1" space="sRGB-elle-V2-g10.icc"/>
+</color>
+]]></param>
+</params>
+
+26 Aug 2024 17:02:37 +0700: Completed saving /home/nic/Pictures/mêm/sober.png (mime: image/png). Result: OK. Warning: . Size: 166603
+26 Aug 2024 17:02:37 +0700: Saving Completed
+26 Aug 2024 17:03:56 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 18:43:33 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 85237
+-- -- -- -- -- -- -- --
+31 Aug 2024 18:43:33 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 18:43:35 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 18:43:53 +0700: Created image "Unnamed", 1024 * 1024 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+31 Aug 2024 18:47:49 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 19:03:26 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 88667
+-- -- -- -- -- -- -- --
+31 Aug 2024 19:03:26 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 19:03:27 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 19:03:34 +0700: Created image "Unnamed", 1242 * 1215 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 19:03:57 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 88843
+-- -- -- -- -- -- -- --
+31 Aug 2024 19:03:57 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 19:03:58 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 19:04:08 +0700: Created image "Unnamed", 1242 * 1215 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+31 Aug 2024 19:07:27 +0700: Created image "Unnamed", 755 * 620 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+31 Aug 2024 19:11:08 +0700: Autosaving: /home/nic/.krita-88843-document_0-autosave.kra
+31 Aug 2024 19:11:08 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/.krita-88843-document_0-autosave.kra. Real location: /home/nic/.krita-88843-document_0-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:11:08 +0700: Completed saving /home/nic/.krita-88843-document_0-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 1957664
+31 Aug 2024 19:14:27 +0700: Autosaving: /home/nic/.krita-88843-document_1-autosave.kra
+31 Aug 2024 19:14:37 +0700: Autosaving: /home/nic/.krita-88843-document_1-autosave.kra
+31 Aug 2024 19:14:37 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/.krita-88843-document_1-autosave.kra. Real location: /home/nic/.krita-88843-document_1-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:14:37 +0700: Completed saving /home/nic/.krita-88843-document_1-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 819429
+31 Aug 2024 19:16:45 +0700: Importing image/png to application/x-krita. Location: /home/nic/Pictures/chomik.png. Real location: /home/nic/Pictures/chomik.png. Batchmode: 0
+31 Aug 2024 19:16:46 +0700: Loaded image from image/png. Size: 1242 * 1215 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (Display P3 Gamut with sRGB Transfer). Layers: 2
+31 Aug 2024 19:21:48 +0700: Autosaving: /home/nic/.krita-88843-document_1-autosave.kra
+31 Aug 2024 19:21:48 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/.krita-88843-document_1-autosave.kra. Real location: /home/nic/.krita-88843-document_1-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:21:48 +0700: Completed saving /home/nic/.krita-88843-document_1-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 744244
+31 Aug 2024 19:23:16 +0700: Autosaving: /home/nic/.krita-88843-document_0-autosave.kra
+31 Aug 2024 19:23:16 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/.krita-88843-document_0-autosave.kra. Real location: /home/nic/.krita-88843-document_0-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:23:16 +0700: Completed saving /home/nic/.krita-88843-document_0-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 1952867
+31 Aug 2024 19:23:46 +0700: Autosaving: /home/nic/Pictures/.chomik.png-autosave.kra
+31 Aug 2024 19:23:56 +0700: Autosaving: /home/nic/Pictures/.chomik.png-autosave.kra
+31 Aug 2024 19:23:56 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/.chomik.png-autosave.kra. Real location: /home/nic/Pictures/.chomik.png-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:23:56 +0700: Completed saving /home/nic/Pictures/.chomik.png-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 4728664
+31 Aug 2024 19:31:37 +0700: Autosaving: /home/nic/Pictures/.chomik.png-autosave.kra
+31 Aug 2024 19:31:37 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/.chomik.png-autosave.kra. Real location: /home/nic/Pictures/.chomik.png-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:31:37 +0700: Completed saving /home/nic/Pictures/.chomik.png-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 4825875
+31 Aug 2024 19:32:45 +0700: Saving Document /home/nic/Pictures/chomik.png as /home/nic/Pictures/chomik.png (mime: image/png). 1382 * 1382 pixels, 8 layers.  101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:32:45 +0700: Create a simple backup for /home/nic/Pictures/chomik.png in the same location as the file.
+31 Aug 2024 19:32:48 +0700: Completed saving /home/nic/Pictures/chomik.png (mime: image/png). Result: The action was cancelled by the user.. Warning: . Size: 776958
+31 Aug 2024 19:32:58 +0700: Autosaving: /home/nic/Pictures/.chomik.png-autosave.kra
+31 Aug 2024 19:32:58 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/.chomik.png-autosave.kra. Real location: /home/nic/Pictures/.chomik.png-autosave.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:32:58 +0700: Completed saving /home/nic/Pictures/.chomik.png-autosave.kra (mime: application/x-krita). Result: OK. Warning: . Size: 4770466
+31 Aug 2024 19:32:58 +0700: Saving Completed
+31 Aug 2024 19:33:14 +0700: Saving Document /home/nic/Pictures/chomik.png as /home/nic/Pictures/BlueStacks/chomik.kra (mime: application/x-krita). 1382 * 1382 pixels, 8 layers.  101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:33:14 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/chomik.kra. Real location: /home/nic/Pictures/BlueStacks/chomik.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:33:15 +0700: Completed saving /home/nic/Pictures/BlueStacks/chomik.kra (mime: application/x-krita). Result: OK. Warning: . Size: 5596463
+31 Aug 2024 19:33:15 +0700: Removing autosave file: /home/nic/Pictures/.chomik.png-autosave.kra
+31 Aug 2024 19:33:32 +0700: Exporting Document: /home/nic/Pictures/BlueStacks/chomik.png as image/png. 1382 * 1382 pixels, 8 layers, 101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:33:33 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/BlueStacks/chomik.png. Real location: /home/nic/Pictures/BlueStacks/chomik.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB b="1" g="1" space="sRGB-elle-V2-g10.icc" r="1"/>
+</color>
+]]></param>
+</params>
+
+31 Aug 2024 19:33:33 +0700: Completed saving /home/nic/Pictures/BlueStacks/chomik.png (mime: image/png). Result: OK. Warning: . Size: 878736
+31 Aug 2024 19:33:33 +0700: Saving Completed
+31 Aug 2024 19:36:15 +0700: Exporting Document: /home/nic/Pictures/BlueStacks/pfp.png as image/png. 1382 * 1382 pixels, 8 layers, 101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:36:15 +0700: Create a simple backup for /home/nic/Pictures/BlueStacks/pfp.png in the same location as the file.
+31 Aug 2024 19:36:16 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/BlueStacks/pfp.png. Real location: /home/nic/Pictures/BlueStacks/pfp.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB b="1" g="1" space="sRGB-elle-V2-g10.icc" r="1"/>
+</color>
+]]></param>
+</params>
+
+31 Aug 2024 19:36:16 +0700: Completed saving /home/nic/Pictures/BlueStacks/pfp.png (mime: image/png). Result: OK. Warning: . Size: 881748
+31 Aug 2024 19:36:16 +0700: Saving Completed
+31 Aug 2024 19:36:20 +0700: Removing autosave file: /home/nic/.krita-88843-document_0-autosave.kra
+31 Aug 2024 19:36:21 +0700: Removing autosave file: /home/nic/.krita-88843-document_1-autosave.kra
+31 Aug 2024 19:36:22 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 19:36:54 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 91915
+-- -- -- -- -- -- -- --
+31 Aug 2024 19:36:54 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 19:36:55 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 19:36:59 +0700: Importing application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/chomik.kra. Real location: /home/nic/Pictures/BlueStacks/chomik.kra. Batchmode: 0
+31 Aug 2024 19:37:00 +0700: Loaded image from application/x-krita. Size: 1382 * 1382 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (Display P3 Gamut with sRGB Transfer). Layers: 8
+31 Aug 2024 19:37:14 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 19:37:15 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 91979
+-- -- -- -- -- -- -- --
+31 Aug 2024 19:37:15 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 19:37:16 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 19:37:22 +0700: Importing application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/chomik.kra. Real location: /home/nic/Pictures/BlueStacks/chomik.kra. Batchmode: 0
+31 Aug 2024 19:37:22 +0700: Loaded image from application/x-krita. Size: 1382 * 1382 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (Display P3 Gamut with sRGB Transfer). Layers: 8
+
+KRITA DID NOT CLOSE CORRECTLY
+================================================================================
+
+
+
+
+
+
+
+
+
+SESSION: 31 Aug 2024 19:37:29 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 92111
+-- -- -- -- -- -- -- --
+31 Aug 2024 19:37:29 +0700: Style: fusion. Available styles: Windows, Fusion
+31 Aug 2024 19:37:30 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+31 Aug 2024 19:37:34 +0700: Importing application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/chomik.kra. Real location: /home/nic/Pictures/BlueStacks/chomik.kra. Batchmode: 0
+31 Aug 2024 19:37:34 +0700: Loaded image from application/x-krita. Size: 1382 * 1382 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (Display P3 Gamut with sRGB Transfer). Layers: 8
+31 Aug 2024 19:38:47 +0700: Exporting Document: /home/nic/Pictures/BlueStacks/pfp.kra as application/x-krita. 1382 * 1382 pixels, 8 layers, 101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:38:47 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/BlueStacks/pfp.kra. Real location: /home/nic/Pictures/BlueStacks/pfp.kra. Batchmode: 0. Configuration: none
+31 Aug 2024 19:38:48 +0700: Completed saving /home/nic/Pictures/BlueStacks/pfp.kra (mime: application/x-krita). Result: OK. Warning: . Size: 5612659
+31 Aug 2024 19:38:48 +0700: Saving Completed
+31 Aug 2024 19:39:02 +0700: Exporting Document: /home/nic/Pictures/BlueStacks/pfp.png as image/png. 1382 * 1382 pixels, 8 layers, 101 frames, 24 framerate. Export configuration: No configuration
+31 Aug 2024 19:39:02 +0700: Create a simple backup for /home/nic/Pictures/BlueStacks/pfp.png in the same location as the file.
+31 Aug 2024 19:39:03 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/BlueStacks/pfp.png. Real location: /home/nic/Pictures/BlueStacks/pfp.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param type="internal" name="alpha">true</param>
+ <param type="internal" name="compression">3</param>
+ <param type="internal" name="downsample">false</param>
+ <param type="internal" name="forceSRGB">true</param>
+ <param type="internal" name="indexed">false</param>
+ <param type="internal" name="interlaced">false</param>
+ <param type="internal" name="saveAsHDR">false</param>
+ <param type="internal" name="saveSRGBProfile">false</param>
+ <param type="internal" name="storeAuthor">false</param>
+ <param type="internal" name="storeMetaData">false</param>
+ <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" b="1" g="1" r="1"/>
+</color>
+]]></param>
+</params>
+
+31 Aug 2024 19:39:03 +0700: Completed saving /home/nic/Pictures/BlueStacks/pfp.png (mime: image/png). Result: OK. Warning: . Size: 881198
+31 Aug 2024 19:39:03 +0700: Saving Completed
+31 Aug 2024 19:39:12 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+
+SESSION: 01 Sep 2024 12:54:37 +0700. Executing /usr/bin/krita /home/nic/Pictures/emojis/Thats-right.png
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 15445
+-- -- -- -- -- -- -- --
+01 Sep 2024 12:54:37 +0700: Style: fusion. Available styles: Windows, Fusion
+01 Sep 2024 12:54:38 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+01 Sep 2024 12:54:42 +0700: Importing image/webp to application/x-krita. Location: /home/nic/Pictures/emojis/Thats-right.png. Real location: /home/nic/Pictures/emojis/Thats-right.png. Batchmode: 0
+01 Sep 2024 12:54:42 +0700: Loaded image from image/webp. Size: 142 * 160 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+01 Sep 2024 12:55:00 +0700: Exporting Document: /home/nic/Pictures/emojis/Thats-right.png as image/png. 142 * 160 pixels, 2 layers, 1 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 12:55:00 +0700: Create a simple backup for /home/nic/Pictures/emojis/Thats-right.png in the same location as the file.
+01 Sep 2024 12:55:02 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/emojis/Thats-right.png. Real location: /home/nic/Pictures/emojis/Thats-right.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param type="internal" name="alpha">true</param>
+ <param type="internal" name="compression">3</param>
+ <param type="internal" name="downsample">false</param>
+ <param type="internal" name="forceSRGB">true</param>
+ <param type="internal" name="indexed">false</param>
+ <param type="internal" name="interlaced">false</param>
+ <param type="internal" name="saveAsHDR">false</param>
+ <param type="internal" name="saveSRGBProfile">false</param>
+ <param type="internal" name="storeAuthor">false</param>
+ <param type="internal" name="storeMetaData">false</param>
+ <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" r="1" space="sRGB-elle-V2-g10.icc" b="1"/>
+</color>
+]]></param>
+</params>
+
+01 Sep 2024 12:55:02 +0700: Completed saving /home/nic/Pictures/emojis/Thats-right.png (mime: image/png). Result: OK. Warning: . Size: 50474
+01 Sep 2024 12:55:02 +0700: Saving Completed
+01 Sep 2024 12:55:04 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+
+SESSION: 01 Sep 2024 12:55:07 +0700. Executing /usr/bin/krita /home/nic/Pictures/emojis/Thats-wrong.png
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 15521
+-- -- -- -- -- -- -- --
+01 Sep 2024 12:55:07 +0700: Style: fusion. Available styles: Windows, Fusion
+01 Sep 2024 12:55:08 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+01 Sep 2024 12:55:11 +0700: Importing image/webp to application/x-krita. Location: /home/nic/Pictures/emojis/Thats-wrong.png. Real location: /home/nic/Pictures/emojis/Thats-wrong.png. Batchmode: 0
+01 Sep 2024 12:55:11 +0700: Loaded image from image/webp. Size: 142 * 160 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+01 Sep 2024 12:55:20 +0700: Exporting Document: /home/nic/Pictures/emojis/Thats-wrong.png as image/png. 142 * 160 pixels, 2 layers, 1 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 12:55:20 +0700: Create a simple backup for /home/nic/Pictures/emojis/Thats-wrong.png in the same location as the file.
+01 Sep 2024 12:55:21 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/emojis/Thats-wrong.png. Real location: /home/nic/Pictures/emojis/Thats-wrong.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB r="1" g="1" space="sRGB-elle-V2-g10.icc" b="1"/>
+</color>
+]]></param>
+</params>
+
+01 Sep 2024 12:55:21 +0700: Completed saving /home/nic/Pictures/emojis/Thats-wrong.png (mime: image/png). Result: OK. Warning: . Size: 49609
+01 Sep 2024 12:55:21 +0700: Saving Completed
+01 Sep 2024 12:55:23 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+
+SESSION: 01 Sep 2024 13:03:49 +0700. Executing /usr/bin/krita /home/nic/Pictures/emojis/ambatunerd.png
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 16781
+-- -- -- -- -- -- -- --
+01 Sep 2024 13:03:49 +0700: Style: fusion. Available styles: Windows, Fusion
+01 Sep 2024 13:03:50 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+01 Sep 2024 13:03:53 +0700: Importing image/jpeg to application/x-krita. Location: /home/nic/Pictures/emojis/ambatunerd.png. Real location: /home/nic/Pictures/emojis/ambatunerd.png. Batchmode: 0
+01 Sep 2024 13:03:53 +0700: Loaded image from image/jpeg. Size: 1125 * 975 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+01 Sep 2024 13:04:02 +0700: Exporting Document: /home/nic/Pictures/emojis/ambatunerd.png as image/png. 1125 * 975 pixels, 2 layers, 101 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 13:04:02 +0700: Create a simple backup for /home/nic/Pictures/emojis/ambatunerd.png in the same location as the file.
+01 Sep 2024 13:04:03 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/emojis/ambatunerd.png. Real location: /home/nic/Pictures/emojis/ambatunerd.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param type="internal" name="alpha">true</param>
+ <param type="internal" name="compression">3</param>
+ <param type="internal" name="downsample">false</param>
+ <param type="internal" name="forceSRGB">true</param>
+ <param type="internal" name="indexed">false</param>
+ <param type="internal" name="interlaced">false</param>
+ <param type="internal" name="saveAsHDR">false</param>
+ <param type="internal" name="saveSRGBProfile">false</param>
+ <param type="internal" name="storeAuthor">false</param>
+ <param type="internal" name="storeMetaData">false</param>
+ <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB r="1" g="1" space="sRGB-elle-V2-g10.icc" b="1"/>
+</color>
+]]></param>
+</params>
+
+01 Sep 2024 13:04:03 +0700: Completed saving /home/nic/Pictures/emojis/ambatunerd.png (mime: image/png). Result: OK. Warning: . Size: 689867
+01 Sep 2024 13:04:03 +0700: Saving Completed
+01 Sep 2024 13:04:04 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+
+SESSION: 01 Sep 2024 17:54:49 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 56265
+-- -- -- -- -- -- -- --
+01 Sep 2024 17:54:49 +0700: Style: fusion. Available styles: Windows, Fusion
+01 Sep 2024 17:54:51 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+01 Sep 2024 17:55:07 +0700: Created image "Unnamed", 1280 * 720 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+01 Sep 2024 17:55:24 +0700: Exporting Document: /home/nic/Pictures/emojis/loud-correct-buzzer.kra as application/x-krita. 1280 * 720 pixels, 2 layers, 101 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 17:55:24 +0700: Converting from application/x-krita to application/x-krita. Location: /home/nic/Pictures/emojis/loud-correct-buzzer.kra. Real location: /home/nic/Pictures/emojis/loud-correct-buzzer.kra. Batchmode: 0. Configuration: none
+01 Sep 2024 17:55:24 +0700: Completed saving /home/nic/Pictures/emojis/loud-correct-buzzer.kra (mime: application/x-krita). Result: OK. Warning: . Size: 1459952
+01 Sep 2024 17:55:24 +0700: Saving Completed
+01 Sep 2024 17:55:37 +0700: Exporting Document: /home/nic/Pictures/emojis/loud-correct-buzzer.png as image/png. 1280 * 720 pixels, 2 layers, 101 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 17:55:38 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/emojis/loud-correct-buzzer.png. Real location: /home/nic/Pictures/emojis/loud-correct-buzzer.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" b="1" g="1" r="1"/>
+</color>
+]]></param>
+</params>
+
+01 Sep 2024 17:55:38 +0700: Completed saving /home/nic/Pictures/emojis/loud-correct-buzzer.png (mime: image/png). Result: OK. Warning: . Size: 498707
+01 Sep 2024 17:55:38 +0700: Saving Completed
+01 Sep 2024 17:56:41 +0700: Created image "Unnamed", 480 * 360 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+01 Sep 2024 17:58:47 +0700: Created image "Unnamed", 1280 * 720 pixels, 240 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 1
+01 Sep 2024 17:59:02 +0700: Exporting Document: /home/nic/Pictures/emojis/loud-incorrect-buzzer.png as image/png. 1280 * 720 pixels, 2 layers, 101 frames, 24 framerate. Export configuration: No configuration
+01 Sep 2024 17:59:03 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/emojis/loud-incorrect-buzzer.png. Real location: /home/nic/Pictures/emojis/loud-incorrect-buzzer.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" b="1" g="1" r="1"/>
+</color>
+]]></param>
+</params>
+
+01 Sep 2024 17:59:03 +0700: Completed saving /home/nic/Pictures/emojis/loud-incorrect-buzzer.png (mime: image/png). Result: OK. Warning: . Size: 498110
+01 Sep 2024 17:59:03 +0700: Saving Completed
+01 Sep 2024 17:59:07 +0700: CLOSING SESSION
+================================================================================
+
+
+
+
+SESSION: 01 Sep 2024 21:00:12 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.14. Process ID: 70824
+-- -- -- -- -- -- -- --
+01 Sep 2024 21:00:12 +0700: Style: fusion. Available styles: Windows, Fusion
+01 Sep 2024 21:00:13 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+01 Sep 2024 21:16:28 +0700: CLOSING SESSION
+================================================================================
+
+
+
+SESSION: 08 Sep 2024 14:44:26 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.15. Process ID: 54908
+-- -- -- -- -- -- -- --
+08 Sep 2024 14:44:26 +0700: Style: fusion. Available styles: Windows, Fusion
+08 Sep 2024 14:44:29 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+08 Sep 2024 14:44:48 +0700: Importing image/jpeg to application/x-krita. Location: /home/nic/Pictures/mêm/what-the-devils.jpg. Real location: /home/nic/Pictures/mêm/what-the-devils.jpg. Batchmode: 0
+08 Sep 2024 14:44:48 +0700: Loaded image from image/jpeg. Size: 719 * 876 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB). Layers: 2
+08 Sep 2024 14:45:03 +0700: Exporting Document: /home/nic/Pictures/mêm/what-the-devils.png as image/png. 719 * 876 pixels, 2 layers, 101 frames, 24 framerate. Export configuration: No configuration
+08 Sep 2024 14:45:04 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/mêm/what-the-devils.png. Real location: /home/nic/Pictures/mêm/what-the-devils.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" r="1" g="1" b="1"/>
+</color>
+]]></param>
+</params>
+
+08 Sep 2024 14:45:04 +0700: Completed saving /home/nic/Pictures/mêm/what-the-devils.png (mime: image/png). Result: OK. Warning: . Size: 613516
+08 Sep 2024 14:45:04 +0700: Saving Completed
+08 Sep 2024 14:45:07 +0700: CLOSING SESSION
+================================================================================
+
+
+SESSION: 16 Sep 2024 19:07:00 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.3, Qt version compiled: 5.15.14, loaded: 5.15.15. Process ID: 16458
+-- -- -- -- -- -- -- --
+16 Sep 2024 19:07:00 +0700: Style: fusion. Available styles: Windows, Fusion
+16 Sep 2024 19:07:01 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+16 Sep 2024 19:07:15 +0700: Importing image/png to application/x-krita. Location: /home/nic/Downloads/Standard-unix-filesystem-hierarchy.svg.png. Real location: /home/nic/Downloads/Standard-unix-filesystem-hierarchy.svg.png. Batchmode: 0
+16 Sep 2024 19:07:15 +0700: Loaded image from image/png. Size: 1280 * 698 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+16 Sep 2024 19:07:56 +0700: Exporting Document: /home/nic/Pictures/Unix-filesystem-hierarchy.png as image/png. 1280 * 698 pixels, 3 layers, 101 frames, 24 framerate. Export configuration: No configuration
+16 Sep 2024 19:07:57 +0700: Converting from application/x-krita to image/png. Location: /home/nic/Pictures/Unix-filesystem-hierarchy.png. Real location: /home/nic/Pictures/Unix-filesystem-hierarchy.png. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="alpha" type="internal">true</param>
+ <param name="compression" type="internal">3</param>
+ <param name="downsample" type="internal">false</param>
+ <param name="forceSRGB" type="internal">true</param>
+ <param name="indexed" type="internal">false</param>
+ <param name="interlaced" type="internal">false</param>
+ <param name="saveAsHDR" type="internal">false</param>
+ <param name="saveSRGBProfile" type="internal">false</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB b="1" space="sRGB-elle-V2-g10.icc" g="1" r="1"/>
+</color>
+]]></param>
+</params>
+
+16 Sep 2024 19:07:57 +0700: Completed saving /home/nic/Pictures/Unix-filesystem-hierarchy.png (mime: image/png). Result: OK. Warning: . Size: 253227
+16 Sep 2024 19:07:57 +0700: Saving Completed
+16 Sep 2024 19:07:59 +0700: CLOSING SESSION
+================================================================================
+
+SESSION: 21 Sep 2024 21:39:29 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.5, Qt version compiled: 5.15.15, loaded: 5.15.15. Process ID: 99369
+-- -- -- -- -- -- -- --
+21 Sep 2024 21:39:29 +0700: Style: fusion. Available styles: Windows, Fusion
+21 Sep 2024 21:39:31 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+21 Sep 2024 21:39:39 +0700: CLOSING SESSION
+================================================================================
+SESSION: 21 Sep 2024 21:39:46 +0700. Executing /usr/bin/krita
+
+Krita Version: 5.2.5, Qt version compiled: 5.15.15, loaded: 5.15.15. Process ID: 99429
+-- -- -- -- -- -- -- --
+21 Sep 2024 21:39:46 +0700: Style: fusion. Available styles: Windows, Fusion
+21 Sep 2024 21:39:47 +0700: Database is up to date. Version: 0.0.17, created by Krita 5.2.2, at Fri May 3 22:57:44 2024
+21 Sep 2024 21:40:14 +0700: Importing image/jpeg to application/x-krita. Location: /home/nic/Downloads/wallpaperflare.com_wallpaper.jpg. Real location: /home/nic/Downloads/wallpaperflare.com_wallpaper.jpg. Batchmode: 0
+21 Sep 2024 21:40:14 +0700: Loaded image from image/jpeg. Size: 2000 * 1333 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+21 Sep 2024 21:40:59 +0700: CLOSING SESSION

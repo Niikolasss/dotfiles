@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=env WINEPREFIX=/home/nic/.wine wine 'C:\\users\\nic\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Player.lnk'
+GenericName[en_US]=
+GenericName=
+Icon=D743_RobloxPlayerBeta.0
+MimeType=
+Name[en_US]=Roblox Player
+Name=Roblox Player
+Path=
+StartupNotify=true
+StartupWMClass=robloxplayerbeta.exe
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

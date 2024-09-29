@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/nic/Documents/warp.sh
+Icon=application-x-shellscript
+Name=warp.sh
+Type=Application
+X-KDE-AutostartScript=true

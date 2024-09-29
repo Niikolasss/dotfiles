@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="admin:/var/cache/" added="2024-08-08T11:39:05.358000Z" modified="2024-09-27T15:59:47.163000Z" visited="2024-09-27T15:59:47.163000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-09-27T15:59:47.163000Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/wall2.png" added="2024-08-11T04:09:17.959000Z" modified="2024-09-14T15:09:15.331395Z" visited="2024-08-11T04:09:17.959000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2024-08-11T04:09:17.959000Z" count="1"/>
+          <bookmark:application name="Thunar" exec="'thunar %u'" modified="2024-08-25T14:32:36.981396Z" count="1"/>
+          <bookmark:application name="gnome-background-panel" exec="'gio open %u'" modified="2024-09-14T15:09:15.322031Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="'xdg-desktop-portal-gnome %u'" modified="2024-09-14T15:09:15.331393Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/com.roblox.client_2.639.688-1668_3arch_15d972ed8c1cdf3fed2fe32abb0a56fd_apkmirror.com.apkm" added="2024-08-25T14:44:42.212419Z" modified="2024-09-01T09:12:58.732340Z" visited="2024-08-25T14:44:42.212420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T09:12:58.732336Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240827_200959.png" added="2024-08-27T13:10:00.292000Z" modified="2024-08-29T03:17:33.956000Z" visited="2024-08-29T03:17:33.956000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-08-27T13:10:00.292000Z" count="1"/>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-08-29T03:16:45.468000Z" count="3"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-08-29T03:17:33.956000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240828_132757.png" added="2024-08-28T06:27:58.011000Z" modified="2024-08-29T03:15:25.048000Z" visited="2024-08-29T03:15:25.048000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-08-28T06:27:58.011000Z" count="1"/>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-08-29T03:15:25.048000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.facebook.com/100055808176205/" added="2024-08-29T03:17:08.492000Z" modified="2024-08-29T03:17:08.492000Z" visited="2024-08-29T03:17:08.492000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-29T03:17:08.492000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp:udi=/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1d.0/usb2/2-1/2-1.2/" added="2024-08-29T08:22:42.612000Z" modified="2024-08-29T08:22:42.612000Z" visited="2024-08-29T08:22:42.612000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2024-08-29T08:22:42.612000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://v.redd.it/er7ha64lbmld1" added="2024-08-30T03:11:22.986000Z" modified="2024-08-30T03:11:22.986000Z" visited="2024-08-30T03:11:22.986000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-30T03:11:22.986000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.gamingonlinux.com/2024/08/kde-plasma-62-adding-a-pop-up-for-donations-plus-they-want-to-make-a-next-generation-kde-os/" added="2024-08-30T09:07:35.257000Z" modified="2024-08-30T09:07:35.257000Z" visited="2024-08-30T09:07:35.257000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-30T09:07:35.257000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/attachments/708937439955255357/1279290669088768082/lv_0_20240831070258.mp4?ex=66d3e7c7&amp;is=66d29647&amp;hm=00ec2a04b6848758514b1119d55a968d0a2c53a382f9277c5c25f0a12563c9ca&amp;" added="2024-08-31T04:13:58.510000Z" modified="2024-08-31T04:13:58.510000Z" visited="2024-08-31T04:13:58.510000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-31T04:13:58.510000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/lv_0_20240831070258.mp4" added="2024-08-31T04:14:04.677294Z" modified="2024-09-28T04:16:54.887056Z" visited="2024-09-21T09:44:16.784000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-08-31T04:14:04.677298Z" count="1"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:44:16.784000Z" count="1"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:54.887053Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://en.wikipedia.org/wiki/Open_3D_Engine" added="2024-08-31T05:23:55.426000Z" modified="2024-08-31T05:23:55.426000Z" visited="2024-08-31T05:23:55.426000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-31T05:23:55.426000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://support.discord.com/hc/en-gb/articles/23187611406999" added="2024-08-31T05:59:32.411000Z" modified="2024-08-31T05:59:32.411000Z" visited="2024-08-31T05:59:32.411000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-31T05:59:32.411000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/README.md" added="2024-08-31T08:48:47.872000Z" modified="2024-08-31T08:48:47.872000Z" visited="2024-08-31T08:48:47.872000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-08-31T08:48:47.872000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/20230801_080743_IMG_5057.PNG" added="2024-08-31T11:48:42.630000Z" modified="2024-08-31T11:48:42.630000Z" visited="2024-08-31T11:48:42.630000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-08-31T11:48:42.630000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/nzkRrp9F.html" added="2024-08-31T11:52:22.786485Z" modified="2024-08-31T11:52:22.786491Z" visited="2024-08-31T11:52:22.786486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-08-31T11:52:22.786488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/chomik.png" added="2024-08-31T12:06:14.927000Z" modified="2024-09-03T14:30:54.888008Z" visited="2024-09-01T14:11:41.901000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T14:11:41.901000Z" count="2"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-03T14:30:54.888005Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/BlueStacks/chomik.png" added="2024-08-31T12:33:47.030000Z" modified="2024-09-07T06:09:09.158629Z" visited="2024-09-05T09:12:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-05T09:12:08Z" count="6"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-07T06:09:09.158624Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/BlueStacks/pfp.png" added="2024-08-31T12:36:34.924000Z" modified="2024-09-21T03:31:13.709000Z" visited="2024-09-21T03:31:13.709000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-08-31T12:51:20.096000Z" count="3"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-08-31T12:41:12.895677Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-21T03:31:13.709000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Videos/memes/azumanger%20dai%20o.mp4" added="2024-08-31T14:04:36.900000Z" modified="2024-09-01T02:49:01.749000Z" visited="2024-09-01T02:49:01.749000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T02:49:01.749000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://foundation.roblox.com/" added="2024-08-31T14:54:42.116000Z" modified="2024-08-31T14:54:42.116000Z" visited="2024-08-31T14:54:42.116000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-31T14:54:42.116000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://barista-example.roblox.com/" added="2024-08-31T14:55:15.541000Z" modified="2024-08-31T14:55:15.541000Z" visited="2024-08-31T14:55:15.541000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-08-31T14:55:15.541000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240901_091419.png" added="2024-09-01T02:14:20.066000Z" modified="2024-09-01T02:14:20.066000Z" visited="2024-09-01T02:14:20.066000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-01T02:14:20.066000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Videos/memes/bnuuy_pancake.mp4" added="2024-09-01T02:49:41.940000Z" modified="2024-09-01T02:49:41.940000Z" visited="2024-09-01T02:49:41.940000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T02:49:41.940000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/crazy%20prank.jpg" added="2024-09-01T04:13:53.064000Z" modified="2024-09-01T14:48:03.896000Z" visited="2024-09-01T14:48:03.896000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T14:48:03.896000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/1259535982701842442.png" added="2024-09-01T05:50:20.100000Z" modified="2024-09-01T05:51:22.344000Z" visited="2024-09-01T05:51:22.344000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:51:22.344000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/1259536071369166982.png" added="2024-09-01T05:50:26.005000Z" modified="2024-09-01T05:52:58.977000Z" visited="2024-09-01T05:52:58.977000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:52:58.977000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Camera%20Roll/DP.png" added="2024-09-01T05:52:37.237000Z" modified="2024-09-01T05:52:37.237000Z" visited="2024-09-01T05:52:37.237000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:52:37.237000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/Thats-right.png" added="2024-09-01T05:53:49.704000Z" modified="2024-09-01T10:47:03.372000Z" visited="2024-09-01T10:47:03.372000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:47:03.372000Z" count="3"/>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-01T05:54:30.858000Z" count="1"/>
+          <bookmark:application name="org.kde.krita" exec="krita %f" modified="2024-09-01T05:54:36.347000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/Thats-wrong.png" added="2024-09-01T05:55:07.176000Z" modified="2024-09-01T05:55:47.674000Z" visited="2024-09-01T05:55:47.674000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.krita" exec="krita %f" modified="2024-09-01T05:55:07.176000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:55:47.674000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/ambatunerd.jpeg" added="2024-09-01T05:57:24.911000Z" modified="2024-09-01T05:57:24.911000Z" visited="2024-09-01T05:57:24.911000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:57:24.911000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/im%20telling%20god.png" added="2024-09-01T05:57:53.404000Z" modified="2024-09-01T05:57:53.404000Z" visited="2024-09-01T05:57:53.404000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T05:57:53.404000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://images-ext-1.discordapp.net/external/72JyBcq78TT4dw77qoJVkg-qsx39mjSCmTB67LRFCRA/https/media.tenor.com/wD-Bljt1Oc4AAAPo/jackpot.mp4" added="2024-09-01T05:59:12.639000Z" modified="2024-09-01T05:59:12.639000Z" visited="2024-09-01T05:59:12.639000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T05:59:12.639000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/jackpot.mp4" added="2024-09-01T05:59:13.410900Z" modified="2024-09-21T09:41:24.611000Z" visited="2024-09-21T09:41:24.611000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T05:59:45.161799Z" count="2"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:41:24.611000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/jackpot.gif" added="2024-09-01T06:00:00.818351Z" modified="2024-09-01T06:00:00.818360Z" visited="2024-09-01T06:00:00.818353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T06:00:00.818355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/jackpot.gif" added="2024-09-01T06:01:05.640000Z" modified="2024-09-01T06:55:19.816000Z" visited="2024-09-01T06:55:19.816000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T06:55:19.816000Z" count="2"/>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T06:02:43.490209Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/im%20telling%20god.png" added="2024-09-01T06:01:19.705000Z" modified="2024-09-01T06:01:19.705000Z" visited="2024-09-01T06:01:19.705000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T06:01:19.705000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/ambatunerd.jpeg" added="2024-09-01T06:03:27.977000Z" modified="2024-09-01T06:03:27.977000Z" visited="2024-09-01T06:03:27.977000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T06:03:27.977000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/ambatunerd.png" added="2024-09-01T06:03:48.764000Z" modified="2024-09-01T06:04:10.900000Z" visited="2024-09-01T06:04:10.900000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.krita" exec="krita %f" modified="2024-09-01T06:03:48.764000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T06:04:10.900000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/thy-end-is-now.png" added="2024-09-01T06:58:37.330693Z" modified="2024-09-01T07:04:23.079000Z" visited="2024-09-01T07:04:23.079000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T06:58:37.841040Z" count="2"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T07:04:23.079000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/channel/UCVZ0TL08QG11142N8pevOBQ" added="2024-09-01T07:46:30.286000Z" modified="2024-09-01T07:46:30.286000Z" visited="2024-09-01T07:46:30.286000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T07:46:30.286000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240901_155520.png" added="2024-09-01T08:55:21.326000Z" modified="2024-09-01T08:55:21.326000Z" visited="2024-09-01T08:55:21.326000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-01T08:55:21.326000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240901_155532.png" added="2024-09-01T08:55:33.080000Z" modified="2024-09-01T08:55:33.080000Z" visited="2024-09-01T08:55:33.080000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-01T08:55:33.080000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/xTrayambak/lucem" added="2024-09-01T09:04:21.685000Z" modified="2024-09-01T09:04:21.685000Z" visited="2024-09-01T09:04:21.685000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T09:04:21.685000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/lucem/screenshots/demo.jpg" added="2024-09-01T09:11:49.791000Z" modified="2024-09-01T09:11:49.791000Z" visited="2024-09-01T09:11:49.791000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-01T09:11:49.791000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/lucem/screenshots/settings_gui_4.jpg" added="2024-09-01T09:11:52.799000Z" modified="2024-09-01T09:11:52.799000Z" visited="2024-09-01T09:11:52.799000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-01T09:11:52.799000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.apkmirror.com/apk/roblox-corporation/roblox/roblox-2.639.688-release/roblox-2.639.688-android-apk-download" added="2024-09-01T09:12:32.046000Z" modified="2024-09-01T09:12:32.046000Z" visited="2024-09-01T09:12:32.046000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T09:12:32.046000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/attachments/963215490862436422/1279733734781747263/1724992742674434.webm?ex=66d5846a&amp;is=66d432ea&amp;hm=b2141dc14995646e036eaa846e88f481e485bbecc35fc88fdb05d7731eda94e0&amp;" added="2024-09-01T09:31:56.557000Z" modified="2024-09-01T09:31:56.557000Z" visited="2024-09-01T09:31:56.557000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T09:31:56.557000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/1724992742674434.webm" added="2024-09-01T09:31:59.327709Z" modified="2024-09-21T09:41:17.342000Z" visited="2024-09-21T09:41:17.342000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/webm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T09:31:59.327712Z" count="1"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:41:17.342000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://wiki.archlinux.org/title/Arch_is_the_best" added="2024-09-01T10:38:26.051000Z" modified="2024-09-01T10:38:26.051000Z" visited="2024-09-01T10:38:26.051000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T10:38:26.051000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/20230606_192330_5BEEAA0D-7A95-4D6C-A028-F1D85D8C5B17.png" added="2024-09-01T10:47:28.710000Z" modified="2024-09-01T10:47:28.710000Z" visited="2024-09-01T10:47:28.710000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:47:28.710000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/child%20porn.png" added="2024-09-01T10:48:01.746000Z" modified="2024-09-01T10:48:01.746000Z" visited="2024-09-01T10:48:01.746000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:48:01.746000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://images-ext-1.discordapp.net/external/hou3_FnZqSV3bXjw9GiCrd1vLJuduvxxMWCAfp4nPrc/https/media.tenor.com/qUliFy-uCY0AAAPo/lie-lie-detector.mp4" added="2024-09-01T10:51:57.392000Z" modified="2024-09-01T10:51:57.392000Z" visited="2024-09-01T10:51:57.392000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T10:51:57.392000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/lie-lie-detector.mp4" added="2024-09-01T10:51:58.182259Z" modified="2024-09-01T10:53:25.841178Z" visited="2024-09-01T10:51:58.182262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T10:53:25.841173Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://images-ext-1.discordapp.net/external/7vLsRUhqiEmvNfBkG1YirzJod67rUsNQXvIcwitOKI0/https/media.tenor.com/JfMFHg0LrWEAAAPo/correct-buzzer.mp4" added="2024-09-01T10:52:03.230000Z" modified="2024-09-01T10:52:03.230000Z" visited="2024-09-01T10:52:03.230000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T10:52:03.230000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/correct-buzzer.mp4" added="2024-09-01T10:52:04.155021Z" modified="2024-09-01T10:52:25.748360Z" visited="2024-09-01T10:52:04.155023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T10:52:25.748354Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/correct-buzzer.gif" added="2024-09-01T10:53:16.517889Z" modified="2024-09-01T10:54:09.866000Z" visited="2024-09-01T10:54:09.866000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T10:53:16.517893Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:54:09.866000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/lie-lie-detector.gif" added="2024-09-01T10:53:41.092906Z" modified="2024-09-01T10:53:41.092913Z" visited="2024-09-01T10:53:41.092907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-01T10:53:41.092909Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/loud-correct-buzzer.png" added="2024-09-01T10:58:15.388000Z" modified="2024-09-01T10:58:15.388000Z" visited="2024-09-01T10:58:15.388000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:58:15.388000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/loud-incorrect-buzzer.png" added="2024-09-01T10:59:12.683000Z" modified="2024-09-01T10:59:12.683000Z" visited="2024-09-01T10:59:12.683000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T10:59:12.683000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://steamcommunity.com/profiles/76561198989910237" added="2024-09-01T11:10:43.214000Z" modified="2024-09-01T11:10:43.214000Z" visited="2024-09-01T11:10:43.214000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T11:10:43.214000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://motherfuckingwebsite.com/" added="2024-09-01T12:56:17.834000Z" modified="2024-09-01T12:56:17.834000Z" visited="2024-09-01T12:56:17.834000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-01T12:56:17.834000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.filelight.desktop" added="2024-09-01T13:59:32.720000Z" modified="2024-09-01T13:59:32.720000Z" visited="2024-09-01T13:59:32.720000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2024-09-01T13:59:32.720000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240901_211632.png" added="2024-09-01T14:16:32.729000Z" modified="2024-09-01T14:16:32.729000Z" visited="2024-09-01T14:16:32.729000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-01T14:16:32.729000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240901_211637.png" added="2024-09-01T14:16:37.812000Z" modified="2024-09-01T14:16:37.812000Z" visited="2024-09-01T14:16:37.812000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-01T14:16:37.812000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/friendly%20smile.png" added="2024-09-01T15:10:35.509000Z" modified="2024-09-01T15:10:35.509000Z" visited="2024-09-01T15:10:35.509000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-01T15:10:35.509000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/OpenAsar/arrpc/tree/main#server" added="2024-09-02T06:15:26.367000Z" modified="2024-09-02T06:15:26.367000Z" visited="2024-09-02T06:15:26.367000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-02T06:15:26.367000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Documents/arrpc.sh" added="2024-09-02T06:57:33.346000Z" modified="2024-09-02T06:57:33.346000Z" visited="2024-09-02T06:57:33.346000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-02T06:57:33.346000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://lkml.iu.edu/hypermail/linux/kernel/2401.3/04208.html" added="2024-09-02T09:54:29.943000Z" modified="2024-09-02T09:54:29.943000Z" visited="2024-09-02T09:54:29.943000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-02T09:54:29.943000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.phoronix.com/news/Linus-Torvalds-Bcachefs-Regrets" added="2024-09-02T10:19:34.384000Z" modified="2024-09-02T10:41:41.269000Z" visited="2024-09-02T10:41:41.269000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-02T10:41:41.269000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/emojis/1249066599630246109.webp?size=48&amp;quality=lossless&amp;name=DUMBNIG" added="2024-09-02T11:47:34.783000Z" modified="2024-09-02T11:47:34.783000Z" visited="2024-09-02T11:47:34.783000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-02T11:47:34.783000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data" added="2024-09-02T13:13:13.509000Z" modified="2024-09-02T13:13:13.509000Z" visited="2024-09-02T13:13:13.509000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.filelight" exec="filelight %u" modified="2024-09-02T13:13:13.509000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/d/1EByARqRd40-3T1R8vWgEeRhcrIFnZrkF6WTVF2Njp_0/edit?usp=sharing" added="2024-09-03T05:54:59.310000Z" modified="2024-09-03T06:10:48.504000Z" visited="2024-09-03T06:10:48.504000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-03T06:10:48.504000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://youtube.com/shorts/tkoixdBXxbw?si=THRT2ryMShPgL-Uz" added="2024-09-04T04:01:28.569000Z" modified="2024-09-04T04:01:28.569000Z" visited="2024-09-04T04:01:28.569000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-04T04:01:28.569000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://fxtwitter.com/ixnoahlive/status/1830933661127999825" added="2024-09-04T04:20:50.250000Z" modified="2024-09-04T04:20:50.250000Z" visited="2024-09-04T04:20:50.250000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-04T04:20:50.250000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240904_202726.png" added="2024-09-04T13:27:27.050000Z" modified="2024-09-04T13:27:27.050000Z" visited="2024-09-04T13:27:27.050000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-04T13:27:27.050000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/chomik.jpeg" added="2024-09-05T09:11:38.874000Z" modified="2024-09-21T03:30:59.432000Z" visited="2024-09-21T03:30:59.432000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-15T01:59:59.178000Z" count="2"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-21T03:30:59.432000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?time_continue=394&amp;v=eJUFFYI0DOY&amp;embeds_referring_euri=https%3A%2F%2Fdiscord.com%2F&amp;source_ve_path=MTM5MTE3LDEyNzI5OSwxMzkxMTcsMTM5MTE3LDI4NjY2" added="2024-09-07T07:34:34.838000Z" modified="2024-09-07T07:34:34.838000Z" visited="2024-09-07T07:34:34.838000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-07T07:34:34.838000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/Steam/steamapps/common/ULTRAKILL/README.md" added="2024-09-07T09:11:16.601000Z" modified="2024-09-07T09:11:53.230000Z" visited="2024-09-07T09:11:53.230000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-07T09:11:53.230000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/Steam/steamapps/common/ULTRAKILL/manifest.json" added="2024-09-07T09:11:25.344000Z" modified="2024-09-07T09:12:07.699000Z" visited="2024-09-07T09:12:07.699000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-07T09:12:07.699000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/Steam/steamapps/common/ULTRAKILL/license%20information.txt" added="2024-09-07T09:12:01.886000Z" modified="2024-09-07T09:12:01.886000Z" visited="2024-09-07T09:12:01.886000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-07T09:12:01.886000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://osu.ppy.sh/home/news/2024-08-17-osu!-deskmats" added="2024-09-07T10:33:34.037000Z" modified="2024-09-07T10:33:34.037000Z" visited="2024-09-07T10:33:34.037000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-07T10:33:34.037000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/distro-slander.phng" added="2024-09-07T15:34:18.769000Z" modified="2024-09-07T15:34:18.769000Z" visited="2024-09-07T15:34:18.769000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-07T15:34:18.769000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://vxtwitter.com/Roblox/status/1832606194428735775?t=NICRDgFChmuOMyLz476CVg&amp;s=19" added="2024-09-08T05:18:42.746000Z" modified="2024-09-08T05:18:42.746000Z" visited="2024-09-08T05:18:42.746000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-08T05:18:42.746000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/what-the-devils.jpg" added="2024-09-08T07:43:53.808000Z" modified="2024-09-08T07:44:19.519000Z" visited="2024-09-08T07:44:19.519000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-08T07:44:19.519000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/m%C3%AAm/what-the-devils.png" added="2024-09-08T07:45:15.676000Z" modified="2024-09-08T07:45:15.676000Z" visited="2024-09-08T07:45:15.676000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-08T07:45:15.676000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://youtu.be/lg5ETeNWURE?si=eXu-0nBz0OXbmN4D" added="2024-09-08T14:45:15.544000Z" modified="2024-09-08T14:45:15.544000Z" visited="2024-09-08T14:45:15.544000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-08T14:45:15.544000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://www.roblox.com/groups/285005/Linux#!/about" added="2024-09-08T15:25:28.484000Z" modified="2024-09-08T15:25:28.484000Z" visited="2024-09-08T15:25:28.484000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-08T15:25:28.484000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://get.heist.lol/" added="2024-09-09T15:13:55.324000Z" modified="2024-09-09T15:13:55.324000Z" visited="2024-09-09T15:13:55.324000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-09T15:13:55.324000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/attachments/1195686494996799489/1283330205020196864/Screenshot_20240911-093547.png?ex=66e299e3&amp;is=66e14863&amp;hm=28f16487b698c1a8e592969a6b2e9396ec498141cf0b97f4b039012638f0efee&amp;" added="2024-09-11T15:09:26.300000Z" modified="2024-09-11T15:09:26.300000Z" visited="2024-09-11T15:09:26.300000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-11T15:09:26.300000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/attachments/708937439955255357/1283443164136476733/AhaTik_imnotrealfrong_1726066850113.mp4?ex=66e30317&amp;is=66e1b197&amp;hm=a5fa7a09a61d7a2e247417030fe0cb49c54c5778731ec4562e105a8c05db5002&amp;" added="2024-09-11T15:15:15.789000Z" modified="2024-09-11T15:15:15.789000Z" visited="2024-09-11T15:15:15.789000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-11T15:15:15.789000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/AhaTik_imnotrealfrong_1726066850113.mp4" added="2024-09-11T15:15:16.675858Z" modified="2024-09-21T09:40:56.742000Z" visited="2024-09-21T09:40:56.742000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-11T15:15:16.675862Z" count="1"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:40:56.742000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/OneShot.Gamdie.com.zip" added="2024-09-11T15:17:35.019093Z" modified="2024-09-15T01:55:01.292000Z" visited="2024-09-15T01:55:01.292000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-11T15:17:35.019098Z" count="1"/>
+          <bookmark:application name="xarchiver" exec="xarchiver %f" modified="2024-09-15T01:55:01.292000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240912_220928.png" added="2024-09-12T15:09:29.274000Z" modified="2024-09-12T15:09:29.274000Z" visited="2024-09-12T15:09:29.274000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-12T15:09:29.274000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240912_221532.png" added="2024-09-12T15:15:33.366000Z" modified="2024-09-12T15:15:33.366000Z" visited="2024-09-12T15:15:33.366000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-12T15:15:33.366000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="appstream://org.kde.krdc.desktop" added="2024-09-14T04:20:38.730000Z" modified="2024-09-14T04:20:38.730000Z" visited="2024-09-14T04:20:38.730000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %u" modified="2024-09-14T04:20:38.730000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://localhost:47990" added="2024-09-14T07:04:02.426000Z" modified="2024-09-14T07:22:10.163000Z" visited="2024-09-14T07:22:10.163000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-14T07:22:10.163000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://localhost:47990/pin" added="2024-09-14T07:20:25.522000Z" modified="2024-09-14T07:20:42.901000Z" visited="2024-09-14T07:20:42.901000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-14T07:20:42.901000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155651.png" added="2024-09-14T08:56:51.973000Z" modified="2024-09-14T08:56:51.973000Z" visited="2024-09-14T08:56:51.973000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:56:51.973000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155658.png" added="2024-09-14T08:56:59.009000Z" modified="2024-09-14T08:56:59.009000Z" visited="2024-09-14T08:56:59.009000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:56:59.009000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155740.png" added="2024-09-14T08:57:41.092000Z" modified="2024-09-14T08:57:41.092000Z" visited="2024-09-14T08:57:41.092000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:57:41.092000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155743.png" added="2024-09-14T08:57:43.389000Z" modified="2024-09-14T08:57:43.389000Z" visited="2024-09-14T08:57:43.389000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:57:43.389000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155743-1.png" added="2024-09-14T08:57:43.731000Z" modified="2024-09-14T08:57:43.731000Z" visited="2024-09-14T08:57:43.731000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:57:43.731000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155743-2.png" added="2024-09-14T08:57:44.031000Z" modified="2024-09-14T08:57:44.031000Z" visited="2024-09-14T08:57:44.031000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:57:44.031000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240914_155744.png" added="2024-09-14T08:57:44.334000Z" modified="2024-09-14T08:58:33.586243Z" visited="2024-09-14T08:57:44.334000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-14T08:57:44.334000Z" count="1"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-14T08:58:33.586239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://discord.com/billing/promotions/ASXXS4Tw3JTraQXBC6V2YV6K" added="2024-09-14T09:13:03.008000Z" modified="2024-09-14T09:13:03.008000Z" visited="2024-09-14T09:13:03.008000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-14T09:13:03.008000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Anime-Landscape2.png" added="2024-09-14T15:44:53.729000Z" modified="2024-09-14T15:44:53.729000Z" visited="2024-09-14T15:44:53.729000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-14T15:44:53.729000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/2024-04-29_18.49.52.png" added="2024-09-14T15:46:53.767000Z" modified="2024-09-14T15:47:19.251000Z" visited="2024-09-14T15:47:19.251000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-14T15:47:19.251000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/honeypie.mp4" added="2024-09-14T15:54:40.564471Z" modified="2024-09-28T04:16:54.887083Z" visited="2024-09-21T09:45:25.299000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-14T15:54:40.564474Z" count="1"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:45:25.299000Z" count="3"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:54.887075Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/catppuccin_landscape.png" added="2024-09-14T16:01:00.417533Z" modified="2024-09-14T16:01:01.615493Z" visited="2024-09-14T16:01:00.417535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-14T16:01:01.615489Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://discordapp.com/handoff?rpc=6465&amp;key=4fedb004-e422-431c-96ad-5cf31453ecaa" added="2024-09-14T16:02:53.587000Z" modified="2024-09-14T16:02:53.587000Z" visited="2024-09-14T16:02:53.587000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-14T16:02:53.587000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/vesktop.png" added="2024-09-14T16:06:45.167957Z" modified="2024-09-14T16:07:22.453000Z" visited="2024-09-14T16:07:22.453000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-14T16:06:45.592724Z" count="2"/>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2024-09-14T16:07:22.453000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/OneShot.Gamdie.com/OneShot/oneshot.exe" added="2024-09-15T01:56:55.983000Z" modified="2024-09-21T04:00:15.912000Z" visited="2024-09-21T04:00:15.912000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/xdg-desktop-portal-kde %f" modified="2024-09-15T01:56:55.983000Z" count="1"/>
+          <bookmark:application name="wine" exec="wine start /unix %f" modified="2024-09-21T04:00:15.912000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://betterdiscord.app/themes" added="2024-09-15T05:13:22.742000Z" modified="2024-09-15T05:13:22.742000Z" visited="2024-09-15T05:13:22.742000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-15T05:13:22.742000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://media.discordapp.net/attachments/1046209785554546738/1284890544111091893/IMG_5868.mov?ex=66e84711&amp;is=66e6f591&amp;hm=a73a02539304275b57f987f793cb0a702a9c4a6b163007e38da8d6c31ab9dd6e&amp;" added="2024-09-15T14:57:00.269000Z" modified="2024-09-15T14:57:00.269000Z" visited="2024-09-15T14:57:00.269000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-15T14:57:00.269000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/IMG_5868.mov" added="2024-09-15T14:57:06.495443Z" modified="2024-09-15T14:57:21.525716Z" visited="2024-09-15T14:57:08.620000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-15T14:57:06.495452Z" count="1"/>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-15T14:57:08.620000Z" count="1"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-15T14:57:21.525713Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/IMG_5868(1).mov" added="2024-09-16T10:53:49.573365Z" modified="2024-09-16T10:53:49.573373Z" visited="2024-09-16T10:53:49.573366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-16T10:53:49.573368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Unix-filesystem-hierarchy.png" added="2024-09-16T12:08:25.754000Z" modified="2024-09-28T04:23:55.262000Z" visited="2024-09-28T04:23:55.262000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdeconnect.app" exec="kdeconnect-app %f" modified="2024-09-16T12:08:25.754000Z" count="1"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-16T12:09:42.933761Z" count="1"/>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:23:55.262000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240916_220351.png" added="2024-09-16T15:03:52.174000Z" modified="2024-09-16T15:03:52.174000Z" visited="2024-09-16T15:03:52.174000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-16T15:03:52.174000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240916_220354.png" added="2024-09-16T15:03:54.611000Z" modified="2024-09-16T15:03:54.611000Z" visited="2024-09-16T15:03:54.611000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-16T15:03:54.611000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240917_200509.png" added="2024-09-17T13:05:09.537000Z" modified="2024-09-17T13:05:09.537000Z" visited="2024-09-17T13:05:09.537000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-17T13:05:09.537000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240917_202347.png" added="2024-09-17T13:23:47.891000Z" modified="2024-09-17T13:23:47.891000Z" visited="2024-09-17T13:23:47.891000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-17T13:23:47.891000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/spicetify/spicetify-themes/tree/master/text" added="2024-09-17T13:38:09.776000Z" modified="2024-09-17T13:38:09.776000Z" visited="2024-09-17T13:38:09.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-17T13:38:09.776000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/emojis/thang-ngot.png" added="2024-09-18T13:12:05.193387Z" modified="2024-09-18T13:12:12.237254Z" visited="2024-09-18T13:12:05.193389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-18T13:12:05.555834Z" count="2"/>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-18T13:12:12.237249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-09-19T05:44:43.970000Z" modified="2024-09-19T05:44:43.970000Z" visited="2024-09-19T05:44:43.970000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.filelight" exec="filelight %u" modified="2024-09-19T05:44:43.970000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/plasma.svg" added="2024-09-21T03:32:33.484000Z" modified="2024-09-21T03:32:33.484000Z" visited="2024-09-21T03:32:33.484000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2024-09-21T03:32:33.484000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/plasma-logo-colorful-128x128-2112959221.png" added="2024-09-21T03:32:40.836000Z" modified="2024-09-21T03:32:40.836000Z" visited="2024-09-21T03:32:40.836000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2024-09-21T03:32:40.836000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/safijasfjsa(1).json" added="2024-09-21T09:43:37.676000Z" modified="2024-09-21T09:43:37.676000Z" visited="2024-09-21T09:43:37.676000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-21T09:43:37.676000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/2024-07-07%2011-06-33.mkv" added="2024-09-21T09:43:55.055000Z" modified="2024-09-21T09:43:55.055000Z" visited="2024-09-21T09:43:55.055000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Video</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="/usr/bin/vlc --started-from-file %u" modified="2024-09-21T09:43:55.055000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/Adjustments.plist" added="2024-09-21T09:45:42.972000Z" modified="2024-09-21T09:45:49.619000Z" visited="2024-09-21T09:45:49.619000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-21T09:45:49.619000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://cdn.discordapp.com/attachments/811400901373853727/1258082025227685930/Adjustments.plist?ex=66ef8ef0&amp;is=66ee3d70&amp;hm=99415494b8eeb411ffebcf83869cc453f941673e87647c19cc732035a4f418d5&amp;" added="2024-09-21T09:46:27.407000Z" modified="2024-09-21T09:46:27.407000Z" visited="2024-09-21T09:46:27.407000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-21T09:46:27.407000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/Adjustments(1).plist" added="2024-09-21T09:46:29.575446Z" modified="2024-09-21T09:46:30.625000Z" visited="2024-09-21T09:46:30.625000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T09:46:29.575448Z" count="1"/>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-21T09:46:30.625000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Bad-Apple-Terminal/README.md" added="2024-09-21T09:48:05.872000Z" modified="2024-09-21T09:48:05.872000Z" visited="2024-09-21T09:48:05.872000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-21T09:48:05.872000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/@%D9%DD%F5%AA%5E" added="2024-09-21T09:49:53.860612Z" modified="2024-09-21T09:50:08.959597Z" visited="2024-09-21T09:49:53.860613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="'lutris %u'" modified="2024-09-21T09:50:08.959595Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS).7z" added="2024-09-21T09:50:54.245066Z" modified="2024-09-21T09:51:24.919000Z" visited="2024-09-21T09:51:24.919000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T09:50:54.245070Z" count="1"/>
+          <bookmark:application name="xarchiver" exec="xarchiver %f" modified="2024-09-21T09:51:17.097000Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2024-09-21T09:51:24.919000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic" added="2024-09-21T09:51:31.706000Z" modified="2024-09-21T09:51:31.706000Z" visited="2024-09-21T09:51:31.706000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2024-09-21T09:51:31.706000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS)/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS).nds" added="2024-09-21T09:52:20.764939Z" modified="2024-09-21T09:52:45.767131Z" visited="2024-09-21T09:52:20.764940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nintendo-ds-rom"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="'lutris %u'" modified="2024-09-21T09:52:45.767129Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS)(1).7z" added="2024-09-21T09:58:03.080364Z" modified="2024-09-21T09:58:03.080382Z" visited="2024-09-21T09:58:03.080365Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T09:58:03.080369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS)(1)/2739%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(E)(EXiMiUS).nds" added="2024-09-21T09:59:13.721257Z" modified="2024-09-21T09:59:42.495807Z" visited="2024-09-21T09:59:13.721258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nintendo-ds-rom"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="'lutris %u'" modified="2024-09-21T09:59:42.495805Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/1551%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(U)(XenoPhobia).7z" added="2024-09-21T10:01:32.932907Z" modified="2024-09-21T10:01:32.932920Z" visited="2024-09-21T10:01:32.932908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T10:01:32.932915Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/1551%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(U)(XenoPhobia)/1551%20-%20Phoenix%20Wright%20-%20Ace%20Attorney%20-%20Trials%20and%20Tribulations%20(U)(XenoPhobia).nds" added="2024-09-21T10:02:14.047199Z" modified="2024-09-21T10:02:14.047208Z" visited="2024-09-21T10:02:14.047200Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nintendo-ds-rom"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="'lutris %u'" modified="2024-09-21T10:02:14.047203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/wallpaperflare.com_wallpaper.jpg" added="2024-09-21T14:38:54.225507Z" modified="2024-09-21T14:41:45.548000Z" visited="2024-09-21T14:41:45.548000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T14:38:54.225511Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-21T14:41:45.548000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/nebula-1.jpg" added="2024-09-21T14:47:07.035438Z" modified="2024-09-21T14:48:54.322000Z" visited="2024-09-21T14:48:54.322000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T14:47:07.858855Z" count="2"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-21T14:48:54.322000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/nebula-2.jpg" added="2024-09-21T14:47:29.602106Z" modified="2024-09-21T14:49:37.656000Z" visited="2024-09-21T14:49:37.656000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-21T14:47:30.261174Z" count="2"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %f" modified="2024-09-21T14:49:37.656000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/kde-rices.txt" added="2024-09-21T14:55:34.385000Z" modified="2024-09-21T14:55:34.385000Z" visited="2024-09-21T14:55:34.385000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-21T14:55:34.385000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper" added="2024-09-21T15:36:13.688712Z" modified="2024-09-21T15:36:13.688717Z" visited="2024-09-21T15:36:13.688713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="darktable" exec="'darktable %u'" modified="2024-09-21T15:36:13.688714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Wallpaper/nebula-1(1).jpg" added="2024-09-21T15:36:48.804000Z" modified="2024-09-21T15:36:48.804000Z" visited="2024-09-21T15:36:48.804000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %f" modified="2024-09-21T15:36:48.804000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://sober.vinegarhq.org/" added="2024-09-23T13:47:09Z" modified="2024-09-23T13:47:09Z" visited="2024-09-23T13:47:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-23T13:47:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://open.spotify.com/track/6JWGtFJV2usdOmSdHDjbl9?utm_source=discord&amp;utm_medium=desktop" added="2024-09-25T06:49:07.453000Z" modified="2024-09-25T06:49:07.453000Z" visited="2024-09-25T06:49:07.453000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-25T06:49:07.453000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/Hydraxous-BossRush-1.1.3.zip" added="2024-09-25T07:12:27.063349Z" modified="2024-09-25T07:12:27.063355Z" visited="2024-09-25T07:12:27.063350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-25T07:12:27.063352Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/BepInEx-BepInExPack-5.4.2100.zip" added="2024-09-25T07:12:32.444518Z" modified="2024-09-25T07:13:37.496727Z" visited="2024-09-25T07:12:32.444520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-25T07:13:37.496724Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/nic/data/Steam/steamapps/compatdata/1229490/pfx" added="2024-09-25T07:37:08.369000Z" modified="2024-09-25T07:37:08.369000Z" visited="2024-09-25T07:37:08.369000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u" modified="2024-09-25T07:37:08.369000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240926_191548.png" added="2024-09-26T12:15:49.093000Z" modified="2024-09-26T12:15:49.093000Z" visited="2024-09-26T12:15:49.093000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-26T12:15:49.093000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240926_191904.png" added="2024-09-26T12:19:05.104000Z" modified="2024-09-26T12:19:05.104000Z" visited="2024-09-26T12:19:05.104000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-26T12:19:05.104000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240926_191905.png" added="2024-09-26T12:19:06.001000Z" modified="2024-09-26T12:19:06.001000Z" visited="2024-09-26T12:19:06.001000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-26T12:19:06.001000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240926_191909.png" added="2024-09-26T12:19:09.812000Z" modified="2024-09-26T12:19:09.812000Z" visited="2024-09-26T12:19:09.812000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-26T12:19:09.812000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240926_191917.png" added="2024-09-26T12:19:17.949000Z" modified="2024-09-26T12:19:17.949000Z" visited="2024-09-26T12:19:17.949000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-26T12:19:17.949000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/RazoBlast/" added="2024-09-26T15:22:28.546000Z" modified="2024-09-26T15:22:28.546000Z" visited="2024-09-26T15:22:28.546000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-26T15:22:28.546000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Documents/config.conf" added="2024-09-27T15:21:14.931000Z" modified="2024-09-27T15:24:36.015000Z" visited="2024-09-27T15:24:36.015000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-27T15:24:36.015000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/Screenshots/Screenshot_20240928_105926.png" added="2024-09-28T03:59:27.355000Z" modified="2024-09-28T03:59:27.355000Z" visited="2024-09-28T03:59:27.355000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/usr/bin/spectacle %f" modified="2024-09-28T03:59:27.355000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/OSUrecompress/README.md" added="2024-09-28T04:14:33.294000Z" modified="2024-09-28T04:14:33.294000Z" visited="2024-09-28T04:14:33.294000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %u" modified="2024-09-28T04:14:33.294000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads" added="2024-09-28T04:15:20.021000Z" modified="2024-09-28T04:15:20.021000Z" visited="2024-09-28T04:15:20.021000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.filelight" exec="filelight %u" modified="2024-09-28T04:15:20.021000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/%E6%96%B0%E7%9A%84%E8%8A%B1A&amp;B.mp4" added="2024-09-28T04:16:16.825975Z" modified="2024-09-28T04:16:33.556120Z" visited="2024-09-28T04:16:16.825976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:33.556119Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/%E6%96%B0%E7%9A%84%E8%8A%B1C&amp;Ending.mp4" added="2024-09-28T04:16:16.825990Z" modified="2024-09-28T04:16:33.556108Z" visited="2024-09-28T04:16:16.825990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:33.556106Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/He%20doesn't%20know%20how%20to%20play%20Sunflower.pdf" added="2024-09-28T04:16:16.825999Z" modified="2024-09-28T04:16:33.556132Z" visited="2024-09-28T04:16:16.825999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:33.556130Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/Quantum_Physics_Full_Course.mp4" added="2024-09-28T04:16:16.826015Z" modified="2024-09-28T04:16:54.887068Z" visited="2024-09-28T04:16:16.826016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:54.887067Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/He%20doesn't%20know%20how%20to%20play%20Sunflower.mp3" added="2024-09-28T04:16:16.826024Z" modified="2024-09-28T04:16:33.556142Z" visited="2024-09-28T04:16:16.826024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T04:16:33.556141Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/hotcat" added="2024-09-28T04:23:45.245000Z" modified="2024-09-28T04:23:45.245000Z" visited="2024-09-28T04:23:45.245000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:23:45.245000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/pngwing.com.png" added="2024-09-28T04:23:51.788000Z" modified="2024-09-28T04:23:51.788000Z" visited="2024-09-28T04:23:51.788000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:23:51.788000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/yall-mf.png" added="2024-09-28T04:24:09.106000Z" modified="2024-09-28T04:24:09.106000Z" visited="2024-09-28T04:24:09.106000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:09.106000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/wephone.png" added="2024-09-28T04:24:15.034000Z" modified="2024-09-28T04:24:15.034000Z" visited="2024-09-28T04:24:15.034000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:15.034000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///windows/Users/Nic/Pictures/Roblox/RobloxScreenShot20240806_074402946.png" added="2024-09-28T04:24:39.048000Z" modified="2024-09-28T04:24:39.048000Z" visited="2024-09-28T04:24:39.048000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:39.048000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///windows/Users/Nic/Pictures/Roblox/RobloxScreenShot20240719_072257440.png" added="2024-09-28T04:24:43.149000Z" modified="2024-09-28T04:24:43.149000Z" visited="2024-09-28T04:24:43.149000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:43.149000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///windows/Users/Nic/Pictures/Roblox/RobloxScreenShot20240719_075739127.png" added="2024-09-28T04:24:46.194000Z" modified="2024-09-28T04:24:46.194000Z" visited="2024-09-28T04:24:46.194000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:46.194000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///windows/Users/Nic/Pictures/Screenshots/Screenshot%20(2).png" added="2024-09-28T04:24:53.126000Z" modified="2024-09-28T04:24:53.126000Z" visited="2024-09-28T04:24:53.126000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="viewnior" exec="viewnior %f" modified="2024-09-28T04:24:53.126000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Pictures/utoe-family.jpg" added="2024-09-28T09:20:08.895009Z" modified="2024-09-28T09:20:08.895014Z" visited="2024-09-28T09:20:08.895010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="'electron %u'" modified="2024-09-28T09:20:08.895011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/slappy826/libndk-fixer" added="2024-09-28T11:39:20.910000Z" modified="2024-09-28T11:39:20.910000Z" visited="2024-09-28T11:39:20.910000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-28T11:39:20.910000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/preview_OptiFine_1.20.6_HD_U_J1_pre18.jar" added="2024-09-28T11:42:35.916932Z" modified="2024-09-28T11:42:35.916938Z" visited="2024-09-28T11:42:35.916933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-28T11:42:35.916935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/Vital-1.2.0+1.20.6.fabric.mrpack" added="2024-09-28T11:49:35.493629Z" modified="2024-09-28T11:50:52.256000Z" visited="2024-09-28T11:50:52.256000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-modrinth-modpack+zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-28T11:49:35.493632Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2024-09-28T11:50:52.256000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://prismlauncher.org/wiki/help-pages/Mod-platform" added="2024-09-28T11:51:37.874000Z" modified="2024-09-28T11:51:37.874000Z" visited="2024-09-28T11:51:37.874000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-28T11:51:37.874000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/VanillaTweaks_r972407_MC1.20.x.zip" added="2024-09-28T11:57:09.961998Z" modified="2024-09-28T11:57:11.700000Z" visited="2024-09-28T11:57:11.700000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-28T11:57:09.962000Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %f" modified="2024-09-28T11:57:11.700000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://vinegarhq.org/Troubleshooting/index.html" added="2024-09-28T12:13:19.853000Z" modified="2024-09-28T13:46:11.001000Z" visited="2024-09-28T13:46:11.001000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-28T13:46:11.001000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nic/Downloads/s_update64c.zip" added="2024-09-29T05:08:49.647572Z" modified="2024-09-29T05:18:32.935000Z" visited="2024-09-29T05:18:32.935000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2024-09-29T05:16:37.610935Z" count="4"/>
+          <bookmark:application name="org.kde.ark" exec="ark %u" modified="2024-09-29T05:18:32.935000Z" count="2"/>
+          <bookmark:application name="xarchiver" exec="xarchiver %f" modified="2024-09-29T05:18:22.823000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://store.steampowered.com/manual/314160/?l=english&amp;cc=VN&amp;os=linux" added="2024-09-29T07:58:17.923000Z" modified="2024-09-29T07:58:22.560000Z" visited="2024-09-29T07:58:22.560000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="/usr/lib/firefox/firefox %u" modified="2024-09-29T07:58:22.560000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,14 @@
+[Annotations]
+annotationToolType=2
+freehandStrokeWidth=5
+
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/nic/Pictures/mêm/uhhhh.png
+lastImageSaveLocation=file:///home/nic/Pictures/Screenshots/Screenshot_20240928_105926.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

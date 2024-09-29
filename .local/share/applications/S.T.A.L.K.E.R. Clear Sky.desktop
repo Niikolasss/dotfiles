@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=S.T.A.L.K.E.R.: Clear Sky
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/20510
+Icon=steam_icon_20510
+Terminal=false
+Type=Application
+Categories=Game;
